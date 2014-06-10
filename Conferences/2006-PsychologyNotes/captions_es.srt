@@ -1,0 +1,4544 @@
+1
+00:00:32,133 --> 00:00:33,142
+Nos ponemos en tema…
+
+2
+00:00:46,733 --> 00:00:47,700
+¿todos dispuestos?
+
+3
+00:00:48,033 --> 00:00:49,037
+¡Sí!
+
+4
+00:00:51,005 --> 00:00:53,138
+Nueve y veinte,
+
+5
+00:00:58,533 --> 00:00:59,542
+empezamos…
+
+6
+00:01:02,007 --> 00:01:11,012
+1. Impulsos y desdoblamiento de impulsos.
+
+7
+00:01:15,009 --> 00:01:17,013
+…acá hay un lío de llamadas.
+
+8
+00:01:18,733 --> 00:01:23,600
+No vamos a lees todas estas llamadas que son un “plomazo”…
+
+9
+00:01:24,001 --> 00:01:30,003
+plomo, plomo con zinc, peltre.
+
+10
+00:01:33,005 --> 00:01:36,014
+No las vamos a leer a todas, pero algunas sí, dos o tres,
+
+11
+00:01:38,009 --> 00:01:39,018
+a fin de ilustrar el tema.
+
+12
+00:01:41,009 --> 00:01:43,017
+Bueno no tanto prólogo y vamos al tema.
+
+13
+00:01:45,033 --> 00:01:46,600
+Se afirmó en Psicología II
+
+14
+00:01:49,007 --> 00:01:55,008
+que el trabajo de un impulso en cualquier circuito
+
+15
+00:02:00,004 --> 00:02:05,011
+termina por dar registro interno al sujeto.
+
+16
+00:02:08,333 --> 00:02:11,500
+Uno de los circuitos comprende la percepción,
+
+17
+00:02:11,008 --> 00:02:15,441
+la representación, la nueva toma de la representación
+
+18
+00:02:16,005 --> 00:02:18,012
+y la sensación interna en general.
+
+19
+00:02:19,533 --> 00:02:21,300
+Otro circuito
+
+20
+00:02:21,009 --> 00:02:24,010
+nos muestra el recorrido de impulsos que terminan
+
+21
+00:02:25,233 --> 00:02:28,900
+en acciones lanzadas hacia el mundo externo,
+
+22
+00:02:28,009 --> 00:02:33,013
+de las cuales el sujeto tiene también sensación interna.
+
+23
+00:02:35,133 --> 00:02:38,700
+De las acciones que lanza hacia el mundo externo.
+
+24
+00:02:40,005 --> 00:02:43,838
+Esta toma de realimentación es la que permite aprender
+
+25
+00:02:44,006 --> 00:02:48,014
+de las propias acciones por perfeccionamiento de la acción anterior
+
+26
+00:02:49,004 --> 00:02:53,537
+o por descarte del error cometido…
+
+27
+00:02:53,933 --> 00:02:56,800
+se entiende…mas o menos…
+
+28
+00:02:58,001 --> 00:03:02,007
+Todo esto quedó claro con el ejemplo de aprendizaje en el uso de un teclado.
+
+29
+00:03:03,133 --> 00:03:07,139
+la c, d … me equivoqué ah, ¿cierto?
+
+30
+00:03:08,005 --> 00:03:09,013
+qué está diciendo… bueno
+
+31
+00:03:10,005 --> 00:03:15,005
+Por otra parte, todo impulso que termina en el intracuerpo
+
+32
+00:03:16,004 --> 00:03:19,011
+o en el exterior del cuerpo,
+
+33
+00:03:21,000 --> 00:03:26,001
+da registros de distintos emplazamientos en el espacio de representación,
+
+34
+00:03:27,005 --> 00:03:33,007
+pudiendo señalarse que los impulsos del intracuerpo…
+
+35
+00:03:35,004 --> 00:03:37,011
+los impulsos del intracuerpo,
+
+36
+00:03:39,000 --> 00:03:47,009
+se emplazan en el límite táctil-cenestésico hacia "adentro"
+
+37
+00:03:48,005 --> 00:03:51,138
+y los impulsos que terminan en acciones en el mundo
+
+38
+00:03:52,333 --> 00:03:57,339
+se registran en el límite táctil-kinestésico
+
+39
+00:03:59,033 --> 00:04:03,600
+… táctil-kinestésico, hacia "afuera" del cuerpo.
+
+40
+00:04:03,006 --> 00:04:05,007
+Cualquiera sea la dirección del impulso
+
+41
+00:04:05,007 --> 00:04:10,140
+que necesariamente cuenta con un correlato de información o sensación interna,
+
+42
+00:04:11,004 --> 00:04:15,337
+siempre modificará el estado general del circuito.
+
+43
+00:04:17,004 --> 00:04:21,012
+Con respecto a esta aptitud transformadora de los impulsos,
+
+44
+00:04:23,533 --> 00:04:26,100
+podemos considerar dos tipos:
+
+45
+00:04:26,001 --> 00:04:32,001
+1.- aquellos capaces de liberar tensiones
+
+46
+00:04:32,007 --> 00:04:35,011
+o hacer descargas de energía psicofísica,
+
+47
+00:04:36,001 --> 00:04:40,010
+a los que llamaremos "catárticos", impulsos catárticos y
+
+48
+00:04:41,000 --> 00:04:47,007
+2.- los que permiten trasladar cargas internas, integrar contenidos
+
+49
+00:04:47,007 --> 00:04:50,540
+y ampliar las posibilidades de desarrollo de la energía psicofísica,
+
+50
+00:04:51,233 --> 00:04:55,237
+a los que llamaremos "transferenciales".
+
+51
+00:04:56,007 --> 00:04:59,040
+Por tanto, todo impulso, independientemente de su dirección,
+
+52
+00:04:59,733 --> 00:05:03,600
+tendrá una aptitud predominantemente catártica o transferencial.
+
+53
+00:05:03,006 --> 00:05:09,012
+Además, en todo impulso existirá una cuota de gratificación o malestar,
+
+54
+00:05:10,002 --> 00:05:15,635
+de agrado o desagrado, que permitirá al sujeto hacer selección
+
+55
+00:05:15,833 --> 00:05:22,200
+de sus actos de conciencia y de sus acciones corporales.
+
+56
+00:05:22,007 --> 00:05:27,140
+Los impulsos se "desdoblan" a través de realimentaciones diversas
+
+57
+00:05:27,833 --> 00:05:33,500
+como las que permiten cotejar registros de percepciones
+
+58
+00:05:33,008 --> 00:05:37,041
+con registros de representaciones
+
+59
+00:05:38,009 --> 00:05:45,015
+y a las que necesariamente acompañan "retenciones" o memorizaciones de las mismas.
+
+60
+00:05:47,004 --> 00:05:51,437
+Existen otros desdoblamientos que "enfocan" más o menos voluntariamente,
+
+61
+00:05:51,833 --> 00:05:55,000
+a las percepciones y a las representaciones.
+
+62
+00:05:55,000 --> 00:06:00,004
+Estos desdoblamientos han sido designados como "apercepciones",
+
+63
+00:06:00,008 --> 00:06:02,011
+"apercepciones",
+
+64
+00:06:03,008 --> 00:06:07,011
+es decir como selección y dirección de la conciencia
+
+65
+00:06:08,001 --> 00:06:13,008
+hacia las fuentes de percepción y como "evocaciones",
+
+66
+00:06:14,133 --> 00:06:18,140
+es decir como selección y dirección de la conciencia
+
+67
+00:06:19,001 --> 00:06:22,004
+hacia las fuentes de retención.
+
+68
+00:06:23,005 --> 00:06:27,438
+La voluntaria e involuntaria dirección y selección de la conciencia
+
+69
+00:06:27,933 --> 00:06:31,600
+hacia sus distintas fuentes constituye la función
+
+70
+00:06:31,006 --> 00:06:35,013
+que genéricamente ha sido llamada "atención".
+
+71
+00:06:38,005 --> 00:06:43,006
+2. La conciencia, la atención y el "yo".
+
+72
+00:06:46,633 --> 00:06:48,634
+Llamamos "conciencia"
+
+73
+00:06:50,001 --> 00:06:54,134
+al aparato que coordina y estructura las sensaciones,
+
+74
+00:06:54,533 --> 00:06:57,600
+las imágenes y los recuerdos del psiquismo humano.
+
+75
+00:06:58,000 --> 00:07:03,333
+Por otra parte, no se puede ubicar a la conciencia en un lugar preciso
+
+76
+00:07:03,006 --> 00:07:10,339
+del sistema nervioso central, o en algún punto y profundidad cortical o subcortical.
+
+77
+00:07:11,002 --> 00:07:15,007
+Tampoco es el caso de confundir puntos de trabajo especializado,
+
+78
+00:07:15,007 --> 00:07:17,015
+tales como los casos de los “centros”,
+
+79
+00:07:18,005 --> 00:07:25,005
+con estructuras de funcionamiento que se verifican en la totalidad del sistema nervioso…
+
+80
+00:07:26,000 --> 00:07:28,007
+en la totalidad del sistema nervioso.
+
+81
+00:07:28,007 --> 00:07:30,440
+Para una mayor claridad expositiva,
+
+82
+00:07:31,133 --> 00:07:34,400
+designamos como "fenómenos conscientes"
+
+83
+00:07:35,033 --> 00:07:41,300
+a todos los que ocurren en los diferentes niveles y estados de vigilia,
+
+84
+00:07:41,006 --> 00:07:46,539
+semisueño y sueño, incluidos los subliminales
+
+85
+00:07:47,133 --> 00:07:52,300
+que suceden en los límites del registro de lo percibido,
+
+86
+00:07:52,003 --> 00:07:55,036
+de lo representado y de lo recordado.
+
+87
+00:07:55,333 --> 00:08:00,337
+Desde luego, al hablar de lo "subliminal",
+
+88
+00:08:01,033 --> 00:08:08,400
+no nos estamos refiriendo a los supuestos "subconscientes" o "inconscientes".
+
+89
+00:08:08,008 --> 00:08:13,009
+A menudo se confunde la conciencia con el "yo"
+
+90
+00:08:15,833 --> 00:08:20,000
+cuando en realidad éste no tiene una base corporal
+
+91
+00:08:20,233 --> 00:08:25,700
+como ocurre con la conciencia, que aunque sea difusa tiene base corporal,
+
+92
+00:08:26,000 --> 00:08:28,333
+tiene base física,
+
+93
+00:08:28,009 --> 00:08:32,010
+…pero parece que el yo es otro negocio…
+
+94
+00:08:38,000 --> 00:08:43,002
+como ocurre con aquella a la que se puede ubicar como "aparato" registrador
+
+95
+00:08:43,002 --> 00:08:46,003
+y coordinador del psiquismo humano.
+
+96
+00:08:46,533 --> 00:08:48,700
+En su momento dijimos:
+
+97
+00:08:49,333 --> 00:08:53,500
+"...Ese registro de la propia identidad de la conciencia
+
+98
+00:08:53,005 --> 00:08:56,008
+está dado por los datos de sentidos, los datos de memoria
+
+99
+00:08:56,008 --> 00:09:04,941
+y una peculiar configuración que otorga a la conciencia la ilusión de permanencia
+
+100
+00:09:05,733 --> 00:09:11,200
+no obstante los continuos cambios que en ella se verifican.
+
+101
+00:09:12,004 --> 00:09:19,007
+Esa configuración ilusoria de identidad y permanencia es el yo.
+
+102
+00:09:22,001 --> 00:09:25,001
+En los estados alterados de conciencia se comprueba frecuentemente
+
+103
+00:09:25,001 --> 00:09:28,005
+que esta se mantiene en vigilia al tiempo que determinados impulsos
+
+104
+00:09:28,005 --> 00:09:32,013
+que deberían llegar a su registro han sido bloqueados,
+
+105
+00:09:33,003 --> 00:09:38,011
+sufriendo la noción del yo una alteración o un extrañamiento;
+
+106
+00:09:40,004 --> 00:09:41,004
+En esa situación,
+
+107
+00:09:41,004 --> 00:09:46,004
+el yo es registrado como emplazándose en zonas límites
+
+108
+00:09:46,004 --> 00:09:52,009
+externas del espacio de representación y a cierta "distancia" del yo habitual,
+
+109
+00:09:52,009 --> 00:09:54,010
+…distancia entre comillas.
+
+110
+00:09:56,433 --> 00:10:01,436
+El sujeto se puede experimentar a sí mismo
+
+111
+00:10:01,733 --> 00:10:06,600
+registrando y sintiendo fenómenos que provienen del mundo externo
+
+112
+00:10:06,006 --> 00:10:10,011
+cuando en rigor, los fenómenos mencionados no son de percepción
+
+113
+00:10:11,333 --> 00:10:13,342
+sino de representación.
+
+114
+00:10:14,005 --> 00:10:18,738
+A estos fenómenos en los que la representación sustituye a la percepción
+
+115
+00:10:19,233 --> 00:10:24,100
+y, por tanto, se los sitúa en un "espacio externo"
+
+116
+00:10:24,001 --> 00:10:30,434
+hacia cuyo límite se desplaza el yo, solemos llamarlos "proyecciones".
+
+117
+00:10:34,133 --> 00:10:40,600
+3. Espacialidad y temporalidad de los fenómenos de conciencia.
+
+118
+00:10:42,008 --> 00:10:48,341
+En vigilia activa, el yo se ubica en las zonas más externas del espacio de representación,…
+
+119
+00:10:50,008 --> 00:10:52,010
+a ti te veo, existes?
+
+120
+00:10:56,233 --> 00:10:57,500
+¡alucinación!…
+
+121
+00:10:59,008 --> 00:11:05,009
+En vigilia activa, el yo se ubica en las zonas más externas del espacio de representación,
+
+122
+00:11:06,002 --> 00:11:11,008
+“perdido” en los límites del tacto externo,
+
+123
+00:11:12,001 --> 00:11:14,007
+pero si hago apercepción de algo que veo,
+
+124
+00:11:14,007 --> 00:11:19,440
+el registro del yo sufre un corrimiento.
+
+125
+00:11:23,006 --> 00:11:26,008
+En ese momento puedo decirme a mí mismo:
+
+126
+00:11:27,001 --> 00:11:36,001
+“veo desde mí al objeto externo y me registro adentro de mi cuerpo”.
+
+127
+00:11:39,833 --> 00:11:44,842
+Aunque estoy conectado con el mundo externo por medio de los sentidos,
+
+128
+00:11:46,001 --> 00:11:56,034
+existe una división de espacios y es en el espacio interno donde me emplazo yo.
+
+129
+00:11:59,007 --> 00:12:02,011
+Si posteriormente percibo mi respiración,
+
+130
+00:12:04,004 --> 00:12:05,011
+podré decirme a mí mismo…
+
+131
+00:12:06,333 --> 00:12:10,335
+comillas (esto me lo digo a mi mismo):
+
+132
+00:12:11,008 --> 00:12:16,011
+“experimento desde mí el movimiento de los pulmones,
+
+133
+00:12:20,002 --> 00:12:26,008
+estoy adentro de mi cuerpo pero no adentro de mis pulmones”.
+
+134
+00:12:28,004 --> 00:12:34,337
+Está claro que experimento una distancia entre el yo y los pulmones,
+
+135
+00:12:35,008 --> 00:12:41,008
+no solamente porque al yo lo registro en la cabeza que está alejada de la caja torácica
+
+136
+00:12:42,002 --> 00:12:44,735
+sino porque en todos los casos de percepción interna
+
+137
+00:12:45,004 --> 00:12:49,437
+como ocurre con un dolor de muelas o un dolor de cabeza,
+
+138
+00:12:51,000 --> 00:12:53,009
+los fenómenos estarán siempre a “distancia”,
+
+139
+00:12:54,002 --> 00:12:58,002
+a “distancia” de mí como observador.
+
+140
+00:13:02,007 --> 00:13:11,240
+Pero aquí no nos interesa esta “distancia” de mí y el objeto,
+
+141
+00:13:12,002 --> 00:13:13,002
+sino que lo que interesa
+
+142
+00:13:13,002 --> 00:13:16,005
+es la “distancia” desde el yo hacia el mundo externo
+
+143
+00:13:16,005 --> 00:13:20,008
+y desde el yo hacia el mundo interno.
+
+144
+00:13:21,006 --> 00:13:23,007
+Para un lado y para otro, hay una distancia,
+
+145
+00:13:23,007 --> 00:13:27,940
+esa distancia nos interesa, que se presente y diga…
+
+146
+00:13:29,533 --> 00:13:33,200
+Por cierto que podemos destacar matices muy sutiles
+
+147
+00:13:33,002 --> 00:13:36,009
+en la variabilidad de las posiciones “espaciales” del yo,
+
+148
+00:13:36,009 --> 00:13:37,014
+pero acá estamos resaltando
+
+149
+00:13:38,004 --> 00:13:42,137
+las ubicaciones diametrales del yo en cada caso mencionado.
+
+150
+00:13:42,008 --> 00:13:45,011
+Y, en esta descripción, podemos decir que el yo
+
+151
+00:13:46,001 --> 00:13:50,234
+se puede ubicar en la interioridad del espacio de representación
+
+152
+00:13:50,009 --> 00:13:52,442
+pero en los límites táctiles kinestésicos
+
+153
+00:13:53,333 --> 00:13:56,600
+que dan noción del mundo externo y opuestamente,
+
+154
+00:13:56,833 --> 00:14:03,400
+en los límites táctiles cenestésicos que dan noción del mundo interno.
+
+155
+00:14:06,033 --> 00:14:11,041
+En todo caso, podemos usar la figura de una película bicóncava
+
+156
+00:14:13,000 --> 00:14:16,008
+como límite entre mundos,
+
+157
+00:14:17,001 --> 00:14:21,006
+una película bicóncava como límite entre mundos
+
+158
+00:14:21,009 --> 00:14:24,010
+que se dilata o contrae
+
+159
+00:14:25,433 --> 00:14:34,500
+y con ello focaliza o difumina el registro de los objetos externos e internos.
+
+160
+00:14:35,007 --> 00:14:39,007
+La atención se dirige, más o menos intencionadamente,
+
+161
+00:14:39,007 --> 00:14:43,014
+hacia los sentidos externos o internos en la vigilia
+
+162
+00:14:44,633 --> 00:14:48,400
+y pierde el manejo de su dirección en el semisueño, el sueño
+
+163
+00:14:48,008 --> 00:14:52,008
+y aún en la vigilia de los estados alterados,
+
+164
+00:14:53,033 --> 00:14:55,000
+ya que en todos esos niveles y estados
+
+165
+00:14:55,000 --> 00:15:01,009
+la reversibilidad es afectada por fenómenos y registros que se imponen a la conciencia.
+
+166
+00:15:02,006 --> 00:15:08,011
+Es muy evidente que en la constitución del yo intervienen no solamente la memoria,
+
+167
+00:15:09,001 --> 00:15:11,008
+la percepción y la representación,
+
+168
+00:15:12,033 --> 00:15:17,500
+sino la posición de la atención en el espacio de representación.
+
+169
+00:15:18,004 --> 00:15:22,237
+No se está hablando, por consiguiente, de un yo substancial
+
+170
+00:15:22,009 --> 00:15:28,015
+sino de un epifenómeno de la actividad de la conciencia.
+
+171
+00:15:30,005 --> 00:15:32,938
+Este "yo-atención"
+
+172
+00:15:33,007 --> 00:15:36,010
+parece cumplir con la función de coordinar las actividades de la conciencia
+
+173
+00:15:37,000 --> 00:15:41,733
+con el propio cuerpo y con el mundo en general.
+
+174
+00:15:43,002 --> 00:15:47,005
+Los registros del transcurrir y de la posición de los fenómenos mentales
+
+175
+00:15:47,005 --> 00:15:54,009
+se imbrican en esta coordinación a la que se independiza de la misma coordinación.
+
+176
+00:15:55,001 --> 00:16:00,006
+Y así, la metáfora del "yo" termina por cobrar identidad
+
+177
+00:16:01,933 --> 00:16:03,933
+como si existiera
+
+178
+00:16:06,004 --> 00:16:12,237
+y “substancialidad” independizándose de la estructura de funciones de la conciencia.
+
+179
+00:16:13,002 --> 00:16:19,002
+Por otra parte, los reiterados registros y reconocimientos de la acción de la atención
+
+180
+00:16:19,005 --> 00:16:21,938
+se van configurando en el ser humano muy tempranamente,
+
+181
+00:16:22,433 --> 00:16:27,200
+a medida que el niño dispone de direcciones más o menos voluntarias
+
+182
+00:16:27,002 --> 00:16:31,002
+hacia el mundo externo y hacia el intracuerpo.
+
+183
+00:16:31,433 --> 00:16:37,500
+Gradualmente, con el manejo del cuerpo y de ciertas funciones internas,
+
+184
+00:16:38,003 --> 00:16:41,336
+se va robusteciendo la presencia puntual
+
+185
+00:16:41,009 --> 00:16:47,012
+y también una copresencia en la que el registro del propio yo se constituye
+
+186
+00:16:48,433 --> 00:16:55,500
+en concentrador y trasfondo de todas las actividades mentales.
+
+187
+00:16:56,001 --> 00:17:02,234
+Estamos en presencia de esa gran ilusión de la conciencia a la que llamamos "yo".
+
+188
+00:17:03,433 --> 00:17:08,440
+Debemos considerar ahora al emplazamiento del yo en los distintos niveles de conciencia.
+
+189
+00:17:09,004 --> 00:17:15,011
+En vigilia el yo ocupa una posición central
+
+190
+00:17:16,008 --> 00:17:21,541
+dada por la disponibilidad de la atención y de la reversibilidad.
+
+191
+00:17:23,533 --> 00:17:26,700
+Esto varía considerablemente en el semisueño,
+
+192
+00:17:26,009 --> 00:17:28,942
+cuando los impulsos que provienen de los sentidos externos
+
+193
+00:17:29,833 --> 00:17:35,837
+tienden a debilitarse o fluctuar entre el mundo externo y una cenestesia generalizada.
+
+194
+00:17:37,001 --> 00:17:41,634
+Durante el sueño con imágenes, el yo se internaliza.
+
+195
+00:17:43,133 --> 00:17:49,141
+Es, por último, durante el sueño vegetativo cuando el registro del yo se esfuma.
+
+196
+00:17:51,003 --> 00:17:55,007
+Llamada…: En el "sueño paradojal" o con imágenes,
+
+197
+00:17:56,000 --> 00:17:59,008
+el registro del yo se "aleja" del mundo externo
+
+198
+00:17:59,008 --> 00:18:03,008
+y se diluye en imágenes inconexas hasta desaparecer
+
+199
+00:18:04,000 --> 00:18:09,004
+en una situación que difícilmente está en gobierno del soñante.
+
+200
+00:18:09,008 --> 00:18:11,016
+En cuanto al sueño vegetativo profundo
+
+201
+00:18:12,009 --> 00:18:18,642
+la detección electroencefalográfica muestra una total ausencia de imágenes.
+
+202
+00:18:20,001 --> 00:18:24,008
+Tampoco se verifica el MOR (movimiento ocular rápido),
+
+203
+00:18:24,008 --> 00:18:27,009
+coincidiendo esto con una amnesia posterior
+
+204
+00:18:27,009 --> 00:18:34,014
+de los hechos psíquicos ocurridos en un total olvido del yo.
+
+205
+00:18:39,009 --> 00:18:42,442
+Las transformaciones de los impulsos en los ensueños vinílicos
+
+206
+00:18:43,333 --> 00:18:46,334
+aparecen en las secuencias de asociaciones libres
+
+207
+00:18:46,733 --> 00:18:50,700
+con numerosas traducciones alegóricas, simbólicas y sígnicas,
+
+208
+00:18:50,007 --> 00:18:55,012
+que conforman el especial lenguaje de imágenes de la cenestesia.
+
+209
+00:18:56,933 --> 00:19:01,937
+Por cierto, nos estamos refiriendo a las secuencias imaginarias sin control,
+
+210
+00:19:03,000 --> 00:19:07,933
+propias de las vías asociativas y no a las construcciones imaginarias,
+
+211
+00:19:07,933 --> 00:19:10,600
+no a las construcciones imaginarias
+
+212
+00:19:11,033 --> 00:19:15,700
+que siguen un desarrollo más o menos premeditado,
+
+213
+00:19:15,009 --> 00:19:18,016
+o a las traducciones de los impulsos canalizadas en las vías abstractivas
+
+214
+00:19:19,006 --> 00:19:23,139
+que también se manifiestan como imágenes simbólicas y sígnicas.
+
+215
+00:19:24,133 --> 00:19:27,400
+Los impulsos, transformándose en distintos niveles,
+
+216
+00:19:27,004 --> 00:19:30,005
+también hacen variar el registro del yo
+
+217
+00:19:30,008 --> 00:19:35,008
+en la profundidad y superficialidad del espacio de representación.
+
+218
+00:19:36,001 --> 00:19:37,003
+Usando una figura,
+
+219
+00:19:37,003 --> 00:19:41,009
+podemos señalar que los fenómenos psíquicos se registran siempre
+
+220
+00:19:42,003 --> 00:19:48,011
+entre coordenadas “espaciales” x e y,
+
+221
+00:19:49,001 --> 00:19:52,234
+pero también con respecto a z,
+
+222
+00:19:52,006 --> 00:19:58,011
+siendo “z” la profundidad del registro en el espacio de representación.
+
+223
+00:19:59,007 --> 00:20:02,011
+Desde luego, el registro de cualquier fenómeno
+
+224
+00:20:03,001 --> 00:20:08,007
+se experimenta en la tridimensionalidad del espacio de representación,
+
+225
+00:20:09,001 --> 00:20:20,001
+en cuanto a altura vertical, lateralidad horizontal y profundidad de los impulsos,
+
+226
+00:20:20,001 --> 00:20:25,002
+conforme mayor externalidad o mayor interioridad,
+
+227
+00:20:25,433 --> 00:20:29,433
+cosa que podemos comprobar al apercibir o representar
+
+228
+00:20:29,433 --> 00:20:38,300
+impulsos provenientes del mundo externo, del intracuerpo, o de la memoria.
+
+229
+00:20:38,009 --> 00:20:40,018
+Sin complicarnos con descripciones propias de la Fenomenología,
+
+230
+00:20:41,008 --> 00:20:47,009
+debemos considerar ahora algunos tópicos estudiados exhaustivamente por ella.
+
+231
+00:20:48,833 --> 00:20:51,839
+Así, decimos que en vigilia los campos de presencia y copresencia
+
+232
+00:20:52,433 --> 00:20:58,434
+permiten ubicar los fenómenos en sucesión temporal,
+
+233
+00:20:59,004 --> 00:21:01,004
+estableciéndose la relación de hechos
+
+234
+00:21:01,004 --> 00:21:04,837
+desde el momento actual en el que estoy emplazado,
+
+235
+00:21:05,005 --> 00:21:09,010
+con los momentos anteriores de los que proviene el fluir de mi conciencia
+
+236
+00:21:10,003 --> 00:21:16,336
+y con los posteriores hacia los que se lanza ese fluir.
+
+237
+00:21:21,833 --> 00:21:27,500
+En todo caso, el instante presente es la barrera de la temporalidad
+
+238
+00:21:28,000 --> 00:21:29,007
+y si bien no puedo dar razón de él
+
+239
+00:21:29,007 --> 00:21:34,013
+porque al pensarlo solo cuento con la retención de lo ocurrido,
+
+240
+00:21:35,006 --> 00:21:36,439
+en la dinámica de mi conciencia,
+
+241
+00:21:37,033 --> 00:21:45,000
+su aparente "fijeza" me permite ir hacia el "atrás" de los fenómenos que ya no son,
+
+242
+00:21:45,000 --> 00:21:50,000
+y hacia el "adelante" de los fenómenos que todavía no son.
+
+243
+00:21:50,004 --> 00:21:53,005
+Es en el horizonte de la temporalidad de la conciencia
+
+244
+00:21:53,005 --> 00:21:56,010
+donde se inscribe todo acontecimiento.
+
+245
+00:21:57,009 --> 00:22:02,009
+Y en el horizonte restringido que fija la presencia de actos y objetos,
+
+246
+00:22:03,133 --> 00:22:06,300
+siempre estará actuando un campo de copresencia
+
+247
+00:22:06,003 --> 00:22:10,005
+en el que se conectarán todos ellos.
+
+248
+00:22:11,933 --> 00:22:17,800
+A diferencia de lo que ocurre en el transcurrir del mundo físico,
+
+249
+00:22:19,006 --> 00:22:25,008
+los hechos de conciencia no respetan la sucesión cronológica
+
+250
+00:22:26,006 --> 00:22:33,007
+sino que regresan, perduran, se actualizan, se modifican y se futurizan,
+
+251
+00:22:33,007 --> 00:22:36,540
+alterando al instante presente.
+
+252
+00:22:38,005 --> 00:22:41,638
+El “instante presente”
+
+253
+00:22:43,004 --> 00:22:47,013
+se estructura por el entrecruzamiento de la retención y de la protención.
+
+254
+00:22:48,003 --> 00:22:49,007
+Ejemplificando:
+
+255
+00:22:50,003 --> 00:22:55,007
+un acontecimiento doloroso imaginado a futuro,
+
+256
+00:22:58,433 --> 00:23:03,800
+puede actuar sobre el presente del sujeto
+
+257
+00:23:05,233 --> 00:23:07,236
+desviando la tendencia que llevaba su cuerpo
+
+258
+00:23:07,533 --> 00:23:11,900
+en dirección a un objeto previamente querido.
+
+259
+00:23:13,033 --> 00:23:20,000
+Así, las leyes que se cumplen en la espacio-temporalidad del mundo físico
+
+260
+00:23:20,004 --> 00:23:26,005
+sufren un desvío considerable en los objetos y los actos mentales.
+
+261
+00:23:27,033 --> 00:23:32,039
+Esta independencia del psiquismo, por “desviación” de las leyes físicas,
+
+262
+00:23:33,000 --> 00:23:35,009
+hace recordar la idea de “clinamen”
+
+263
+00:23:37,133 --> 00:23:39,000
+“clinamen”,
+
+264
+00:23:41,333 --> 00:23:50,100
+que presentara Epicuro para introducir la libertad en un mundo dominado por el mecanicismo.
+
+265
+00:23:50,933 --> 00:23:52,300
+Llamada:
+
+266
+00:23:53,005 --> 00:23:55,013
+Al parecer, Epicuro defendió la Teoría de Demócrito
+
+267
+00:23:56,533 --> 00:24:01,400
+según la cual los átomos se mueven formando el mundo físico,
+
+268
+00:24:01,004 --> 00:24:04,007
+pero agregó frente a la objeción de Aristóteles,
+
+269
+00:24:05,000 --> 00:24:08,008
+que los átomos sufren desvíos, inclinaciones,
+
+270
+00:24:08,008 --> 00:24:11,010
+que les permiten encontrarse.
+
+271
+00:24:13,633 --> 00:24:17,500
+La doctrina correspondiente a la idea del “clinamen”,
+
+272
+00:24:17,733 --> 00:24:21,736
+parece haber sido formulada completamente trescientos años después de Epicuro.
+
+273
+00:24:22,003 --> 00:24:24,436
+Ver: Lucrecio De rerum natura, eso …
+
+274
+00:24:25,000 --> 00:24:31,033
+bueno, pero este asunto es interesante…
+
+275
+00:24:31,033 --> 00:24:35,300
+Dando por comprendida la estructuralidad de la conciencia
+
+276
+00:24:35,003 --> 00:24:40,836
+en la relación entre los “aparatos” y las diferentes vías por la que circula el impulso,
+
+277
+00:24:41,133 --> 00:24:46,200
+podemos considerar a éste, al impulso, en sus distintas transformaciones
+
+278
+00:24:46,005 --> 00:24:52,008
+como el “átomo” básico de la actividad psíquica. El impulso.
+
+279
+00:24:54,009 --> 00:24:59,742
+Sin embargo, tal átomo no se presenta aislado sino en “trenes de impulsos”,
+
+280
+00:25:02,006 --> 00:25:08,008
+en configuraciones que dan lugar a la percepción, al recuerdo y a la representación.
+
+281
+00:25:09,033 --> 00:25:11,400
+De este modo,
+
+282
+00:25:12,002 --> 00:25:16,010
+la inserción de lo psíquico en la espacialidad externa
+
+283
+00:25:17,233 --> 00:25:23,400
+comienza por los impulsos que, convertidos en protenciones de imágenes kinestésicas,
+
+284
+00:25:23,633 --> 00:25:28,300
+en futurizaciones, en eso que voy a hacer ahora…
+
+285
+00:25:29,002 --> 00:25:31,002
+convertidos en protenciones de imágenes kinestésicas,
+
+286
+00:25:31,002 --> 00:25:37,735
+se desplazan hacia el exterior de la tridimensionalidad del espacio de representación
+
+287
+00:25:38,007 --> 00:25:42,007
+moviendo al cuerpo, moviendo al cuerpo.
+
+288
+00:25:44,233 --> 00:25:50,800
+Es claro que las imágenes cenestésicas y las correspondientes a los sentidos externos
+
+289
+00:25:50,008 --> 00:25:53,017
+actúan de modo auxiliar, como "señales compuestas",
+
+290
+00:25:54,007 --> 00:25:57,140
+Piro… como señales compuestas,
+
+291
+00:25:58,733 --> 00:26:07,737
+en todo fenómeno en el que se va seleccionando y regulando la dirección e intensidad motriz.
+
+292
+00:26:10,633 --> 00:26:16,800
+En definitiva, en ese fluir de impulsos relativos al tiempo y al espacio de conciencia,
+
+293
+00:26:16,008 --> 00:26:20,341
+ocurren los primeros eventos que terminarán modificando al mundo.
+
+294
+00:26:25,009 --> 00:26:30,009
+No es ociosa aquí una reflexión general sobre los hechos
+
+295
+00:26:31,002 --> 00:26:37,635
+en los que el psiquismo actúa desde y hacia la externidad.
+
+296
+00:26:38,001 --> 00:26:41,004
+Para comenzar, observamos que los objetos materiales
+
+297
+00:26:41,006 --> 00:26:47,014
+se presentan como espacialidad a la captación “táctil” de los sentidos,
+
+298
+00:26:48,006 --> 00:26:53,008
+a la captación “táctil” de los sentidos, de todos los sentidos
+
+299
+00:26:57,001 --> 00:27:03,002
+que diferencian el corpúsculo, el corpúsculo,
+
+300
+00:27:03,006 --> 00:27:15,773
+la onda, la molécula, la presión, la termicidad, etc.
+
+301
+00:27:18,533 --> 00:27:26,267
+Fenómenos espaciales que se registran táctilmente en todos los sentidos.
+
+302
+00:27:28,233 --> 00:27:32,241
+Para terminar, decimos que estas “impresiones”, o impulsos externos al psiquismo,
+
+303
+00:27:33,033 --> 00:27:36,036
+ponen en marcha un sistema de interpretación y respuesta
+
+304
+00:27:36,006 --> 00:27:40,839
+que no puede operar sino en un espacio interno.
+
+305
+00:27:41,007 --> 00:27:44,740
+Así que el mundo mueve mi espacio interno…
+
+306
+00:27:45,008 --> 00:27:47,841
+esto no queda así,
+
+307
+00:27:48,933 --> 00:27:59,000
+en que parte de mi espacio interno se mueve el mundo y si no lo vemos …
+
+308
+00:27:59,008 --> 00:28:05,041
+Estamos afirmando del modo más amplio que por variación de impulsos entre “espacios”,
+
+309
+00:28:06,001 --> 00:28:10,434
+como si no hubiera más que espacios e impulsos, qué es eso…
+
+310
+00:28:10,008 --> 00:28:10,017
+bueno…
+
+311
+00:28:12,000 --> 00:28:17,007
+Estamos afirmando del modo más amplio que por variación de impulsos entre “espacios”,
+
+312
+00:28:18,000 --> 00:28:21,733
+el psiquismo es penetrado y penetra al mundo.
+
+313
+00:28:24,000 --> 00:28:28,933
+No estamos hablando de circuitos cerrados entre estímulos y respuestas,
+
+314
+00:28:28,933 --> 00:28:30,935
+Pavlov, no,
+
+315
+00:28:32,000 --> 00:28:37,133
+sino de un sistema abierto y creciente que capta y actúa
+
+316
+00:28:37,004 --> 00:28:40,012
+por acumulación y protención temporal.
+
+317
+00:28:42,004 --> 00:28:44,013
+Por otra parte, esta “apertura”,
+
+318
+00:28:45,003 --> 00:28:48,012
+esta “apertura”, esta “apertura”
+
+319
+00:28:49,002 --> 00:28:55,011
+entre espacios no ocurre por franquear las barreras de una mónada
+
+320
+00:28:56,007 --> 00:29:06,013
+sino porque la conciencia, ya en su origen, se constituye desde, en y para el mundo.
+
+321
+00:29:08,000 --> 00:29:09,003
+Llamada:
+
+322
+00:29:10,008 --> 00:29:13,013
+Desde Pitágoras se había concebido a la mónada como la primera unidad
+
+323
+00:29:14,003 --> 00:29:18,011
+o unidad fundamental de la que derivan los números (cosas de ellos).
+
+324
+00:29:19,009 --> 00:29:22,442
+A lo largo del tiempo, la idea de mónada fue sufriendo importantes cambios
+
+325
+00:29:23,007 --> 00:29:27,014
+hasta que en el Renacimiento y con Giordano Bruno en De monade,
+
+326
+00:29:28,733 --> 00:29:33,800
+los átomos constitutivos de la realidad son vivientes y animados.
+
+327
+00:29:34,009 --> 00:29:38,014
+En el S. XVIII Leibniz en los Principios de la Naturaleza,
+
+328
+00:29:39,004 --> 00:29:42,010
+caracterizó a las mónadas como “átomos”
+
+329
+00:29:43,233 --> 00:29:48,800
+sin comienzo ni fin que se combinan entre sí sin interpenetrarse
+
+330
+00:29:49,001 --> 00:29:51,334
+y que poseen fuerza propia.
+
+331
+00:29:51,833 --> 00:29:55,840
+Contemporáneamente, Kant en su Monadologia describió a la mónada
+
+332
+00:29:56,533 --> 00:30:04,100
+como punto indivisible, a diferencia del espacio que es infinitamente divisible.
+
+333
+00:30:05,003 --> 00:30:06,008
+Bueno….
+
+334
+00:30:07,333 --> 00:30:08,339
+Bueno.
+
+335
+00:30:16,006 --> 00:30:19,008
+Entonces, por otra parte, esta “apertura”, entre espacios no ocurre
+
+336
+00:30:19,008 --> 00:30:22,341
+por franquear las barreras de una mónada sino porque la conciencia,
+
+337
+00:30:23,133 --> 00:30:29,200
+ya en su origen, se constituye desde, en y para el mundo.
+
+338
+00:30:36,007 --> 00:30:38,640
+4. Estructuras de la conciencia.
+
+339
+00:30:39,008 --> 00:30:41,341
+Bueno aquello mas o menos era relojero…
+
+340
+00:30:42,133 --> 00:30:46,134
+ahora estructura de la conciencia, estructura de la conciencia
+
+341
+00:30:46,007 --> 00:30:51,040
+Los diferentes modos de estar el ser humano en el mundo.
+
+342
+00:30:53,233 --> 00:30:58,300
+Los diferentes modos de estar el ser humano en el mundo,
+
+343
+00:30:58,008 --> 00:31:02,013
+entendiendo mundo como la síntesis de mundo externo e interno …
+
+344
+00:31:03,633 --> 00:31:06,500
+Los diferentes modos de estar el ser humano en el mundo,
+
+345
+00:31:06,008 --> 00:31:09,014
+las diferentes posiciones de su experimentar y hacer,
+
+346
+00:31:10,633 --> 00:31:15,200
+responden a estructuraciones completas de la conciencia.
+
+347
+00:31:16,005 --> 00:31:19,011
+Así: la "conciencia desdichada",
+
+348
+00:31:20,008 --> 00:31:22,941
+la "conciencia angustiada",
+
+349
+00:31:24,333 --> 00:31:27,200
+la “conciencia emocionada",
+
+350
+00:31:27,533 --> 00:31:29,600
+la "conciencia asqueada",
+
+351
+00:31:30,007 --> 00:31:33,008
+la "conciencia nauseada",
+
+352
+00:31:34,002 --> 00:31:35,835
+la "conciencia inspirada",
+
+353
+00:31:36,033 --> 00:31:40,600
+son casos relevantes que han sido descritos convenientemente.
+
+354
+00:31:40,006 --> 00:31:40,015
+Llamada:
+
+355
+00:31:41,005 --> 00:31:42,011
+En la Fenomenología del Espíritu, Hegel
+
+356
+00:31:45,000 --> 00:31:50,006
+llama "alienación" a la "conciencia desdichada",
+
+357
+00:31:51,006 --> 00:31:56,239
+que se registra como un desgarramiento de la conciencia consigo misma
+
+358
+00:31:57,001 --> 00:32:03,008
+al encontrarse separada y desposeída de la realidad a la cual pertenece
+
+359
+00:32:03,008 --> 00:32:05,010
+¡Que interesante!
+
+360
+00:32:07,233 --> 00:32:10,500
+En el Concepto de la Angustia, Kierkegaard,
+
+361
+00:32:10,005 --> 00:32:13,011
+estudia a la "conciencia angustiada",
+
+362
+00:32:15,533 --> 00:32:17,800
+la "conciencia angustiada"
+
+363
+00:32:19,009 --> 00:32:24,016
+que se manifiesta con respecto a su objeto que es la "nada".
+
+364
+00:32:27,001 --> 00:32:30,010
+Muchos “filósofos de la existencia"
+
+365
+00:32:32,002 --> 00:32:34,035
+recurren al método fenomenológico
+
+366
+00:32:34,233 --> 00:32:39,300
+para describir los actos y los objetos de síntesis de conciencia.
+
+367
+00:32:40,004 --> 00:32:43,009
+Sartre en Esbozo de una teoría de las emociones,
+
+368
+00:32:43,009 --> 00:32:46,342
+describe a la "conciencia emocionada"
+
+369
+00:32:47,233 --> 00:32:54,400
+y Kolnai en El Asco, describe a la "conciencia asqueada"
+
+370
+00:32:56,002 --> 00:32:58,002
+…bueno.
+
+371
+00:32:58,006 --> 00:33:00,639
+Es aquí pertinente anotar
+
+372
+00:33:01,005 --> 00:33:09,438
+que tales descripciones se pueden aplicar a lo personal, a lo grupal y a lo social.
+
+373
+00:33:12,000 --> 00:33:17,033
+Por ejemplo, para describir una estructura de conciencia en pánico,
+
+374
+00:33:17,003 --> 00:33:19,007
+en pánico,
+
+375
+00:33:20,001 --> 00:33:23,009
+se debe arrancar de una situación colectiva,
+
+376
+00:33:23,009 --> 00:33:30,542
+como se reconoce en los orígenes (legendarios e históricos) de la palabra "pánico"
+
+377
+00:33:31,009 --> 00:33:35,014
+que designa un especial estado de conciencia.
+
+378
+00:33:37,333 --> 00:33:41,336
+Con el paso del tiempo, el vocablo “pánico”
+
+379
+00:33:41,633 --> 00:33:46,700
+se usó cada vez más frecuentemente para explicar una alteración de conciencia individual.
+
+380
+00:33:46,007 --> 00:33:47,010
+Llamada:
+
+381
+00:33:48,006 --> 00:33:50,013
+Pan…Pan, el dios Pan,
+
+382
+00:33:51,533 --> 00:33:55,534
+era una divinidad pre helénica
+
+383
+00:33:55,633 --> 00:34:01,100
+benéfica para los campos, los pastores y los rebaños.
+
+384
+00:34:01,333 --> 00:34:05,336
+Una leyenda lo hace aparecer en la batalla de Maratón,
+
+385
+00:34:05,009 --> 00:34:09,842
+sembrando el “terror pánico” entre los persas
+
+386
+00:34:11,000 --> 00:34:13,002
+y ayudando a los atenienses,
+
+387
+00:34:13,002 --> 00:34:17,009
+que a partir de ese momento propagan su culto en toda Grecia.
+
+388
+00:34:17,009 --> 00:34:23,013
+El adjetivo “pánico” se refiere a esa divinidad en general,
+
+389
+00:34:24,003 --> 00:34:26,236
+pánico lo hecho por Pan…
+
+390
+00:34:32,006 --> 00:34:35,014
+pero “pánico”, se usó para señalar el estado de conciencia
+
+391
+00:34:36,004 --> 00:34:42,012
+que denota un peligro inminente y que es colectivo y contagioso.
+
+392
+00:34:45,002 --> 00:34:46,011
+Eso es lo panico.
+
+393
+00:34:47,333 --> 00:34:54,300
+Actualmente, la Psiquiatría ha acuñado el “síndrome de pánico”,
+
+394
+00:34:54,533 --> 00:34:58,500
+debilitando el significado colectivo inicial.
+
+395
+00:34:58,008 --> 00:34:59,012
+Claro… bueno.
+
+396
+00:35:07,006 --> 00:35:08,006
+Ahora bien,
+
+397
+00:35:08,933 --> 00:35:11,938
+los casos anteriormente citados pueden ser entendidas individualmente
+
+398
+00:35:12,007 --> 00:35:18,240
+o en un conjunto en atención a la intersubjetividad constitutiva de la conciencia.
+
+399
+00:35:19,003 --> 00:35:23,004
+Siempre que ocurran variaciones en esas estructuraciones globales,
+
+400
+00:35:23,633 --> 00:35:27,400
+ocurrirán también variaciones en los fenómenos concurrentes,
+
+401
+00:35:27,633 --> 00:35:32,100
+tal es el caso del yo.
+
+402
+00:35:32,007 --> 00:35:36,012
+Así, en plena vigilia pero en estados de conciencia diferentes,
+
+403
+00:35:37,002 --> 00:35:43,005
+registramos al yo ubicado en distintas profundidades del espacio de representación.
+
+404
+00:35:45,333 --> 00:35:46,335
+Para comprender lo anterior,
+
+405
+00:35:46,533 --> 00:35:50,500
+debemos apelar a las diferencias entre niveles y estados de conciencia.
+
+406
+00:35:50,005 --> 00:35:51,013
+Los niveles clásicos de vigilia, semisueño,
+
+407
+00:35:52,005 --> 00:35:55,009
+sueño profundo paradojal y sueño profundo vegetativo,
+
+408
+00:35:55,009 --> 00:35:57,013
+no ofrecen dificultades de comprensión.
+
+409
+00:35:58,006 --> 00:36:01,008
+Pero en cada uno de esos niveles tenemos la posibilidad de reconocer
+
+410
+00:36:02,001 --> 00:36:05,005
+posiciones variables de los fenómenos psíquicos.
+
+411
+00:36:05,007 --> 00:36:07,015
+Poniendo ejemplos extremos:
+
+412
+00:36:08,008 --> 00:36:15,013
+decimos que cuando el yo mantiene contacto sensorial con el mundo externo
+
+413
+00:36:16,006 --> 00:36:21,239
+pero se encuentra perdido en sus representaciones y evocaciones,
+
+414
+00:36:22,004 --> 00:36:27,009
+o se tiene en cuenta a sí mismo sin intereses relevantes sobre su acción en el mundo,
+
+415
+00:36:28,002 --> 00:36:35,008
+estamos en presencia de una conciencia vigílica en estado de ensimismamiento.
+
+416
+00:36:37,633 --> 00:36:44,000
+El cuerpo actúa externamente en una suerte de “irrealidad”
+
+417
+00:36:44,005 --> 00:36:49,838
+que profundizándose, puede llegar a la desconexión y la inmovilidad.
+
+418
+00:36:50,009 --> 00:36:53,042
+Se trata de un “corrimiento” del yo
+
+419
+00:36:54,003 --> 00:37:00,012
+hacia una presencia constante de los registros de evocación,
+
+420
+00:37:01,005 --> 00:37:05,010
+representación, o percepción táctil cenestésica y por tanto,
+
+421
+00:37:06,003 --> 00:37:11,011
+la distancia se “alarga” entre el yo y el objeto externo.
+
+422
+00:37:12,004 --> 00:37:14,837
+Se alarga la distancia.
+
+423
+00:37:15,008 --> 00:37:16,014
+Bien.
+
+424
+00:37:18,933 --> 00:37:20,100
+En el caso opuesto,
+
+425
+00:37:20,333 --> 00:37:23,100
+el yo perdido en el mundo,
+
+426
+00:37:25,006 --> 00:37:29,139
+se desplaza hacia los registros táctil kinestésicos
+
+427
+00:37:30,000 --> 00:37:34,007
+sin crítica ni reversibilidad sobre los actos que realiza.
+
+428
+00:37:36,433 --> 00:37:43,100
+Estamos ante un caso de conciencia vigílica en estado de alteración
+
+429
+00:37:44,002 --> 00:37:47,935
+como puede ocurrir en la llamada “emoción violenta”.
+
+430
+00:37:50,004 --> 00:37:55,006
+En este caso, la importancia que cobra el objeto externo es decisiva,
+
+431
+00:37:55,833 --> 00:38:01,842
+acortándose la distancia entre el yo y el objeto percibido.
+
+432
+00:38:05,433 --> 00:38:12,400
+a. Estructuras, estados y casos no habituales de conciencia.
+
+433
+00:38:13,007 --> 00:38:17,013
+Llamamos “no habituales” a los comportamientos que muestran anormalidades
+
+434
+00:38:18,003 --> 00:38:24,012
+respecto a parámetros del individuo o del grupo que se esté considerando.
+
+435
+00:38:25,005 --> 00:38:31,938
+Es claro que si la población de un país o un grupo humano enloquecen,
+
+436
+00:38:32,733 --> 00:38:39,000
+no dejamos de considerar a esos casos dentro de los comportamientos “no habituales”
+
+437
+00:38:39,004 --> 00:38:44,005
+por el hecho de contar con numerosos representantes.
+
+438
+00:38:44,933 --> 00:38:47,100
+En todo caso,
+
+439
+00:38:47,004 --> 00:38:56,010
+ese conjunto humano debe ser comparado con situaciones estables en que ha vivido
+
+440
+00:38:57,002 --> 00:39:02,003
+y en las que la reversibilidad, el sentido crítico y el control de sus actos,
+
+441
+00:39:02,533 --> 00:39:04,800
+tiene características previsibles.
+
+442
+00:39:05,001 --> 00:39:08,006
+Por otra parte, hay casos “no habituales” que son fugaces
+
+443
+00:39:09,003 --> 00:39:17,836
+y otros que parecen arraigarse o aún desplegarse a medida que pasa el tiempo.
+
+444
+00:39:18,009 --> 00:39:22,016
+No es de nuestro interés tipificar esas conductas sociales
+
+445
+00:39:23,006 --> 00:39:28,007
+desde el punto de vista del Derecho, de la Economía, o de la Psiquiatría.
+
+446
+00:39:30,004 --> 00:39:33,237
+Tal vez encontraríamos más motivos de reflexión
+
+447
+00:39:33,633 --> 00:39:38,639
+sobre estos casos en la Antropología y en la Historia...
+
+448
+00:39:40,333 --> 00:39:45,000
+Si nuestro interés por los comportamientos “no habituales”
+
+449
+00:39:45,000 --> 00:39:49,002
+nos lleva al campo de lo personal,
+
+450
+00:39:49,433 --> 00:39:54,000
+o a lo sumo de lo interpersonal inmediato,
+
+451
+00:39:54,233 --> 00:39:58,241
+seguirán siendo válidos los criterios de reversibilidad,
+
+452
+00:39:59,003 --> 00:40:02,006
+sentido crítico y control de los propios actos en relación
+
+453
+00:40:03,002 --> 00:40:07,735
+a esa historia personal o interpersonal.
+
+454
+00:40:08,333 --> 00:40:10,338
+Aquí también es aplicable lo comentado anteriormente
+
+455
+00:40:10,833 --> 00:40:13,800
+con respecto a los casos “no habituales” fugaces
+
+456
+00:40:14,033 --> 00:40:17,300
+y los que parecen arraigarse o aún desplegarse
+
+457
+00:40:17,005 --> 00:40:21,011
+en su anormalidad a medida que pasa el tiempo.
+
+458
+00:40:22,008 --> 00:40:26,017
+Llevemos pues nuestro estudio sobre los comportamientos “no habituales”
+
+459
+00:40:27,933 --> 00:40:31,400
+fuera del terreno de la patología para concentrarnos,
+
+460
+00:40:31,006 --> 00:40:36,010
+dentro de nuestra Psicología, en dos grandes grupos de estados y casos
+
+461
+00:40:37,002 --> 00:40:42,002
+a los que hemos llamado el grupo de la “conciencia perturbada”
+
+462
+00:40:42,005 --> 00:40:47,009
+y el grupo de la “conciencia inspirada”
+
+463
+00:40:48,001 --> 00:40:51,005
+b. La “conciencia perturbada”.
+
+464
+00:40:55,004 --> 00:41:05,004
+Existen diametrales posiciones del yo
+
+465
+00:41:06,007 --> 00:41:09,014
+entre estados alterados que van desde la actividad cotidiana
+
+466
+00:41:10,004 --> 00:41:13,005
+a la emoción violenta y estados ensimismados
+
+467
+00:41:13,733 --> 00:41:19,700
+que van desde la calma reflexiva hasta la desconexión con el mundo externo.
+
+468
+00:41:22,267 --> 00:41:25,268
+Hay, sin embargo, otros estados alterados en los que las representaciones
+
+469
+00:41:25,006 --> 00:41:30,539
+se externalizan proyectivamente, de tal modo que realimentan a la conciencia
+
+470
+00:41:31,004 --> 00:41:34,010
+como “percepciones” que provienen del mundo externo
+
+471
+00:41:35,233 --> 00:41:39,400
+y otros, de ensimismamiento, en los que la percepción del mundo externo
+
+472
+00:41:39,967 --> 00:41:42,972
+se internaliza introyectivamente.
+
+473
+00:41:44,433 --> 00:41:50,100
+Hemos escuchado y leído historias e informes seriamente controlados,
+
+474
+00:41:50,967 --> 00:41:53,900
+sobre las alucinaciones que padecen
+
+475
+00:41:53,009 --> 00:41:58,742
+quienes se encuentran en situaciones de compromiso en las altas montañas,
+
+476
+00:42:00,000 --> 00:42:05,133
+en las soledades polares, en los desiertos y en los mares.
+
+477
+00:42:06,333 --> 00:42:09,867
+El estado físico de fatiga, anoxia y sed;
+
+478
+00:42:10,004 --> 00:42:15,371
+el estado psíquico de abandono en la monotonía del silencio y la soledad;
+
+479
+00:42:16,133 --> 00:42:18,142
+las condiciones ambientales térmicas extremas,
+
+480
+00:42:19,633 --> 00:42:24,640
+son elementos que han llegado a conformar casos de alteraciones alucinatorias
+
+481
+00:42:25,009 --> 00:42:30,676
+y mucho más frecuentemente, casos de alteraciones ilusorias puntuales.
+
+482
+00:42:32,433 --> 00:42:38,167
+Por otra parte, del lado del ensimismamiento introyectivo,
+
+483
+00:42:38,533 --> 00:42:40,542
+la sensación externa llega a la conciencia
+
+484
+00:42:41,667 --> 00:42:43,300
+pero la representación correspondiente
+
+485
+00:42:43,533 --> 00:42:47,540
+opera desconectada del contexto general perceptivo
+
+486
+00:42:48,005 --> 00:42:51,338
+realimentando a la conciencia que interpreta y registra el fenómeno
+
+487
+00:42:52,001 --> 00:42:55,334
+como interioridad “significativa”,
+
+488
+00:42:55,967 --> 00:43:01,133
+como representación que parece “dirigirse” a la interioridad del sujeto de modo directo.
+
+489
+00:43:02,433 --> 00:43:03,367
+En un ejemplo:
+
+490
+00:43:04,033 --> 00:43:08,036
+las luces coloreadas de los semáforos de una gran ciudad,
+
+491
+00:43:10,533 --> 00:43:15,000
+comienzan de pronto, a los ojos de un angustiado peatón,
+
+492
+00:43:16,967 --> 00:43:20,973
+a “enviar” misteriosos códigos y claves.
+
+493
+00:43:22,009 --> 00:43:23,016
+El sujeto, a partir de ese momento,
+
+494
+00:43:24,006 --> 00:43:29,273
+se considera como la única persona capaz de “recibir” y comprender
+
+495
+00:43:30,067 --> 00:43:32,074
+el significado de esos mensajes.
+
+496
+00:43:38,233 --> 00:43:41,300
+Los estados alterados proyectados
+
+497
+00:43:42,867 --> 00:43:46,000
+y los estados ensimismados introyectados
+
+498
+00:43:46,003 --> 00:43:51,136
+corresponden a transitorias o permanentes perturbaciones de la conciencia vigílica
+
+499
+00:43:51,007 --> 00:43:55,012
+que mencionamos acá como casos de emplazamientos diametrales
+
+500
+00:43:56,433 --> 00:43:58,867
+en la ubicación del yo.
+
+501
+00:43:59,007 --> 00:44:01,340
+Por lo demás, debemos mencionar también
+
+502
+00:44:02,033 --> 00:44:07,100
+a los estados de alteración y ensimismamiento en el nivel de sueño con imágenes
+
+503
+00:44:07,001 --> 00:44:08,834
+y en el semisueño.
+
+504
+00:44:09,006 --> 00:44:11,239
+En Psicología III pasamos revista
+
+505
+00:44:12,033 --> 00:44:15,867
+a numerosos casos de perturbaciones transitorias de conciencia.
+
+506
+00:44:17,009 --> 00:44:21,076
+Se mencionó la situación de alguien que proyecta sus representaciones internas
+
+507
+00:44:22,433 --> 00:44:25,200
+y queda fuertemente sugestionado por ellas,
+
+508
+00:44:25,567 --> 00:44:27,574
+de modo parecido a lo que ocurre en pleno sueño
+
+509
+00:44:28,005 --> 00:44:31,012
+cuando se padece la sugestión de las imágenes oníricas.
+
+510
+00:44:33,167 --> 00:44:38,172
+Se trata de alucinaciones que también ocurren por estados febriles intensos;
+
+511
+00:44:39,004 --> 00:44:42,013
+por acción química (gases, drogas y alcohol);
+
+512
+00:44:43,733 --> 00:44:49,734
+por acción mecánica (giros, respiraciones forzadas, opresión de arterias);
+
+513
+00:44:50,005 --> 00:44:54,009
+por supresión de sentidos externos (cámara de silencio)
+
+514
+00:44:55,467 --> 00:45:00,733
+y por supresión de sentidos internos (ingravidez en cosmonautas).
+
+515
+00:45:04,567 --> 00:45:08,500
+Debemos considerar también las perturbaciones accidentales cotidianas.
+
+516
+00:45:09,004 --> 00:45:12,937
+Estas se manifiestan en los cambios de humor súbito,
+
+517
+00:45:13,006 --> 00:45:15,473
+tales como los accesos de cólera
+
+518
+00:45:18,002 --> 00:45:22,003
+y las explosiones de entusiasmo que en mayor o menor medida,
+
+519
+00:45:22,003 --> 00:45:27,006
+nos permiten experimentar el desplazamiento del yo hacia la periferia
+
+520
+00:45:30,067 --> 00:45:37,800
+mientras cae la reversibilidad y el estado se hace más alterado.
+
+521
+00:45:38,006 --> 00:45:41,239
+Observamos lo contrario frente a un peligro súbito,
+
+522
+00:45:43,633 --> 00:45:47,867
+ante el cual el sujeto se contrae o huye
+
+523
+00:45:48,004 --> 00:45:53,010
+tratando de poner distancia entre él y el objeto amenazante.
+
+524
+00:45:55,667 --> 00:46:00,833
+En todo caso, el desplazamiento del yo es hacia la interioridad.
+
+525
+00:46:01,633 --> 00:46:04,000
+También podemos comprobar, en la misma dirección,
+
+526
+00:46:04,006 --> 00:46:07,773
+ciertas conductas infantiles curiosas.
+
+527
+00:46:09,333 --> 00:46:14,567
+En efecto, los niños suelen utilizar juguetes monstruosos
+
+528
+00:46:15,004 --> 00:46:20,471
+con los que “frenan” o “combaten” a otros monstruos
+
+529
+00:46:21,867 --> 00:46:25,876
+que están al acecho, o se acercan en la noche...
+
+530
+00:46:27,008 --> 00:46:30,475
+Y, cuando esa tecnología no da resultado,
+
+531
+00:46:32,167 --> 00:46:35,100
+siempre queda el recurso de las sábanas
+
+532
+00:46:36,002 --> 00:46:41,007
+que ocultan el cuerpo ante las atroces amenazas.
+
+533
+00:46:42,000 --> 00:46:49,033
+Es claro, en estos casos, que el yo se ensimisma e introyecta.
+
+534
+00:46:51,133 --> 00:46:54,767
+c. La “conciencia inspirada”.
+
+535
+00:47:02,733 --> 00:47:04,267
+…¿Estamos bien?
+
+536
+00:47:04,005 --> 00:47:05,008
+Si
+
+537
+00:47:20,967 --> 00:47:22,973
+La conciencia inspirada,
+
+538
+00:47:25,567 --> 00:47:29,569
+la conciencia inspirada, es una estructura global,
+
+539
+00:47:30,004 --> 00:47:35,013
+capaz de lograr intuiciones inmediatas de la realidad.
+
+540
+00:47:38,033 --> 00:47:39,167
+Por otra parte, es apta
+
+541
+00:47:41,267 --> 00:47:43,275
+para organizar conjuntos de experiencias
+
+542
+00:47:44,067 --> 00:47:47,433
+y para priorizar expresiones que se suelen transmitir
+
+543
+00:47:47,933 --> 00:47:52,700
+a través de la Filosofía, la Ciencia, el Arte y la Mística.
+
+544
+00:47:56,133 --> 00:48:02,367
+En orden a nuestro desarrollo, podemos preguntar y responder un tanto escolarmente:
+
+545
+00:48:03,433 --> 00:48:08,435
+¿Es la conciencia inspirada un estado de ensimismamiento o de alteración?
+
+546
+00:48:09,833 --> 00:48:13,167
+¿Es la conciencia inspirada un estado perturbado,
+
+547
+00:48:13,767 --> 00:48:16,033
+una ruptura de la normalidad,
+
+548
+00:48:16,533 --> 00:48:18,200
+una extrema introyección,
+
+549
+00:48:18,467 --> 00:48:20,800
+o una extrema proyección?
+
+550
+00:48:22,000 --> 00:48:26,000
+Sin duda que la conciencia inspirada es más que un estado,
+
+551
+00:48:26,003 --> 00:48:30,010
+es una estructura global que pasa por los diferentes estados
+
+552
+00:48:31,000 --> 00:48:34,006
+y que se puede manifestar en distintos niveles.
+
+553
+00:48:36,009 --> 00:48:38,842
+Por último, es más que una extrema introyección
+
+554
+00:48:40,667 --> 00:48:42,668
+o una extrema proyección
+
+555
+00:48:43,000 --> 00:48:49,004
+ya que alternativamente se sirve de ellas, en atención a su propósito.
+
+556
+00:48:50,667 --> 00:48:54,400
+Esto último es evidente cuando la conciencia inspirada
+
+557
+00:48:54,667 --> 00:49:01,400
+responde a una intención, a una intención, presente o,
+
+558
+00:49:01,004 --> 00:49:05,871
+en algunos casos, cuando responde a una intención no presente
+
+559
+00:49:06,567 --> 00:49:09,000
+pero que actúa copresentemente.
+
+560
+00:49:10,533 --> 00:49:15,533
+En la Filsofía no son de importancia los sueños inspiradores,
+
+561
+00:49:17,233 --> 00:49:19,800
+ni las inspiraciones súbitas,
+
+562
+00:49:20,033 --> 00:49:24,500
+sino la intuición directa que aplican algunos pensadores
+
+563
+00:49:25,333 --> 00:49:29,338
+para aprehender las realidades inmediatas del pensamiento
+
+564
+00:49:30,133 --> 00:49:35,767
+sin intermediación del pensar deductivo o discursivo.
+
+565
+00:49:36,433 --> 00:49:39,967
+No se trata de las corrientes "intuicionistas"
+
+566
+00:49:40,267 --> 00:49:42,200
+en Lógica y en Matemáticas,
+
+567
+00:49:42,007 --> 00:49:46,140
+sino de pensadores que privilegian la intuición directa
+
+568
+00:49:46,833 --> 00:49:49,840
+como en el caso de Platón con las Ideas,
+
+569
+00:49:51,533 --> 00:49:54,967
+de Descartes con el pensar claro y distinto,
+
+570
+00:49:54,967 --> 00:49:57,600
+descartando el engaño de los sentidos
+
+571
+00:49:58,267 --> 00:50:01,273
+y de Husserl con las descripciones de las nóesis,
+
+572
+00:50:02,367 --> 00:50:08,900
+"suspendiendo el juicio” haciendo epojé, poniendo entre paréntesis.
+
+573
+00:50:11,833 --> 00:50:16,842
+Platón y Aristóteles conocieron las diferencias entre el pensar intuitivo y el discursivo,
+
+574
+00:50:19,867 --> 00:50:22,868
+privilegiando Platón el primer tipo.
+
+575
+00:50:24,167 --> 00:50:30,233
+Para él, las Ideas de lo Bueno y lo Bello son de contemplación directa
+
+576
+00:50:31,003 --> 00:50:37,336
+y son reales, mientras que las cosas buenas o bellas derivan de aquellas Ideas
+
+577
+00:50:38,267 --> 00:50:42,200
+y no poseen la misma realidad inmediata.
+
+578
+00:50:43,001 --> 00:50:46,268
+En Descartes reconocemos ese gran aporte del pensamiento
+
+579
+00:50:46,008 --> 00:50:49,015
+que piensa sobre sí mismo sin intermediación
+
+580
+00:50:50,008 --> 00:50:53,175
+y en Husserl el contacto directo con las nóesis,
+
+581
+00:50:54,267 --> 00:50:57,100
+los actos del pensar y los nóemas,
+
+582
+00:50:57,367 --> 00:51:01,200
+los objetos ligados intencionalmente a los actos del pensar.
+
+583
+00:51:04,008 --> 00:51:09,010
+En la historia de la Ciencia se rescatan ejemplos de inspiraciones súbitas
+
+584
+00:51:10,267 --> 00:51:12,272
+que permitieron avances importantes.
+
+585
+00:51:15,001 --> 00:51:18,568
+El caso más conocido, aunque dudoso,
+
+586
+00:51:18,867 --> 00:51:20,800
+aunque dudoso,
+
+587
+00:51:22,133 --> 00:51:25,142
+es el de la famosa “caída de la manzana de Newton”.
+
+588
+00:51:28,333 --> 00:51:30,336
+Si así hubiera ocurrido,
+
+589
+00:51:30,967 --> 00:51:34,972
+deberíamos reconocer que la súbita inspiración fue motivada
+
+590
+00:51:35,007 --> 00:51:38,240
+por una lenta pero intensa búsqueda
+
+591
+00:51:40,167 --> 00:51:45,133
+orientada hacia el sistema cósmico y la gravedad de los cuerpos.
+
+592
+00:51:46,007 --> 00:51:49,040
+A modo de ejemplo, podemos tener en cuenta otro caso
+
+593
+00:51:49,733 --> 00:51:51,742
+como el ocurrido al químico Kekulé.
+
+594
+00:51:55,633 --> 00:52:01,367
+Éste soñó una noche con varias serpientes entrelazadas
+
+595
+00:52:02,033 --> 00:52:07,200
+que le sirvieron de inspiración para desarrollar las notaciones de la química orgánica.
+
+596
+00:52:08,833 --> 00:52:13,841
+Sin duda que su preocupación constante por formular los enlaces entre substancias
+
+597
+00:52:14,867 --> 00:52:18,300
+siguió actuando aún en el nivel de sueño paradojal,
+
+598
+00:52:18,933 --> 00:52:22,938
+para tomar la vía de la representación alegórica.
+
+599
+00:52:24,367 --> 00:52:28,300
+Estableció de ese modo la teoría de la cuadrivalencia del carbono
+
+600
+00:52:28,003 --> 00:52:31,270
+y la fórmula hexagonal del benceno…
+
+601
+00:52:36,067 --> 00:52:37,833
+Bueno, bueno.
+
+602
+00:52:40,133 --> 00:52:46,567
+En el Arte hay muchos ejemplos de sueños inspiradores.
+
+603
+00:52:48,433 --> 00:52:50,500
+Tal el caso de Mary Shelley.
+
+604
+00:52:54,006 --> 00:52:56,739
+Esta había declarado ante sus amigos,
+
+605
+00:53:02,008 --> 00:53:12,275
+que sentía esa “...vacía incapacidad de invención que es la mayor desdicha del autor”,
+
+606
+00:53:16,009 --> 00:53:17,676
+pero esa noche,
+
+607
+00:53:18,009 --> 00:53:20,011
+pero esa noche,
+
+608
+00:53:21,667 --> 00:53:27,933
+vio en sus sueños al horrendo ser que motivó su novela de “Frankenstein
+
+609
+00:53:28,733 --> 00:53:31,300
+o el Prometeo moderno”.
+
+610
+00:53:32,533 --> 00:53:35,800
+Otro tanto ocurrió con el sueño de R. L. Stevenson
+
+611
+00:53:36,333 --> 00:53:38,467
+que puso en marcha su relato fantástico
+
+612
+00:53:39,133 --> 00:53:42,567
+“El extraño caso del doctor Jekyll y Mr. Hyde”.
+
+613
+00:53:46,333 --> 00:53:50,000
+Por cierto que las inspiraciones vigílicas de escritores y poetas
+
+614
+00:53:50,003 --> 00:53:54,836
+son las más abundantemente conocidas del campo de las artes.
+
+615
+00:53:56,002 --> 00:53:58,335
+Sin embargo, por otros medios
+
+616
+00:53:58,533 --> 00:54:02,100
+hemos llegado a conocer inspiraciones de pintores como Kandinsky
+
+617
+00:54:03,767 --> 00:54:05,833
+que en "Lo espiritual en el arte",
+
+618
+00:54:05,833 --> 00:54:11,500
+describe la necesidad interior que se expresa como inspiración en la obra artística.
+
+619
+00:54:12,167 --> 00:54:17,169
+Artistas plásticos, literatos, músicos, danzarines y actores,
+
+620
+00:54:17,733 --> 00:54:21,700
+han buscado la inspiración tratando de colocarse
+
+621
+00:54:21,967 --> 00:54:25,900
+en ambientes físicos y mentales no habituales.
+
+622
+00:54:28,467 --> 00:54:30,469
+Los diferentes estilos artísticos,
+
+623
+00:54:31,433 --> 00:54:33,800
+que responden a las condiciones epocales,
+
+624
+00:54:34,233 --> 00:54:42,367
+no son simplemente modas o modos de generar, captar e interpretar la obra artística,
+
+625
+00:54:42,767 --> 00:54:46,900
+sino maneras de "disponerse"
+
+626
+00:54:47,867 --> 00:54:51,875
+para recibir y dar impactos sensoriales…
+
+627
+00:54:53,003 --> 00:54:55,012
+de colocarse, de disponerse.
+
+628
+00:54:58,000 --> 00:55:03,633
+Esta "disposición" es la que modula la sensibilidad individual o colectiva
+
+629
+00:55:04,033 --> 00:55:12,038
+y es, por tanto, el pre dialogal que permite establecer la comunicación estética.
+
+630
+00:55:14,733 --> 00:55:19,400
+En la Mística encontramos vastos campos de inspiración.
+
+631
+00:55:20,133 --> 00:55:23,867
+Debemos señalar que cuando hablamos de "mística" en general,
+
+632
+00:55:23,867 --> 00:55:28,200
+estamos considerando fenómenos psíquicos de "experiencia de lo sagrado"
+
+633
+00:55:29,004 --> 00:55:31,009
+en sus diversas profundidades y expresiones.
+
+634
+00:55:32,002 --> 00:55:36,135
+Existe una copiosa literatura que da cuenta de los sueños,
+
+635
+00:55:37,067 --> 00:55:39,600
+las “visiones” del semisueño,
+
+636
+00:55:41,000 --> 00:55:45,033
+y las intuiciones vigílicas de los personajes referenciales
+
+637
+00:55:45,005 --> 00:55:48,009
+de religiones, sectas y grupos místicos.
+
+638
+00:55:50,267 --> 00:55:53,000
+Abundan, además, los estados anormales
+
+639
+00:55:53,233 --> 00:55:57,467
+y los casos extraordinarios de experiencias de lo sagrado
+
+640
+00:55:57,933 --> 00:56:01,467
+que podemos tipificar como Éxtasis
+
+641
+00:56:02,367 --> 00:56:07,200
+o sea, situaciones mentales en que el sujeto queda absorto,
+
+642
+00:56:07,533 --> 00:56:11,536
+deslumbrado dentro de sí y suspendido;
+
+643
+00:56:14,333 --> 00:56:16,339
+por otra parte el Arrebato,
+
+644
+00:56:18,002 --> 00:56:23,835
+por la agitación emotiva y motriz incontrolable,
+
+645
+00:56:24,667 --> 00:56:26,672
+en la que el sujeto se siente transportado,
+
+646
+00:56:27,167 --> 00:56:31,169
+llevado fuera de sí a otros paisajes mentales,
+
+647
+00:56:33,433 --> 00:56:36,300
+a otros tiempos y espacios;
+
+648
+00:56:37,002 --> 00:56:39,569
+por último, como "Reconocimiento"
+
+649
+00:56:39,767 --> 00:56:43,300
+en que el sujeto cree comprenderlo todo en un instante.
+
+650
+00:56:44,533 --> 00:56:47,540
+En este punto estamos considerando a la conciencia inspirada
+
+651
+00:56:48,233 --> 00:56:50,238
+en su experiencia de lo sagrado
+
+652
+00:56:51,005 --> 00:56:54,538
+que varía en su modo de estar frente al fenómeno extraordinario,
+
+653
+00:56:55,033 --> 00:57:00,400
+aunque por extensión se han atribuido también esos funcionamientos mentales
+
+654
+00:57:00,006 --> 00:57:03,014
+a los raptos del poeta o del músico,
+
+655
+00:57:05,167 --> 00:57:10,500
+casos en que "lo sagrado" puede no estar presente.
+
+656
+00:57:12,002 --> 00:57:14,969
+Hemos mencionado estructuras de conciencia
+
+657
+00:57:15,433 --> 00:57:18,200
+a las que llamamos "conciencia inspirada"
+
+658
+00:57:18,933 --> 00:57:20,942
+y las hemos mostrado en grandes áreas conocidas como
+
+659
+00:57:21,833 --> 00:57:24,167
+la Filosofía, la Ciencia, el Arte y la Mística.
+
+660
+00:57:24,167 --> 00:57:28,168
+Pero en la vida cotidiana, en la vida cotidiana,
+
+661
+00:57:28,733 --> 00:57:35,739
+la conciencia inspirada actúa con frecuencia en las intuiciones o en las inspiraciones
+
+662
+00:57:36,533 --> 00:57:40,537
+de la vigilia, del semisueño y el sueño paradojal.
+
+663
+00:57:41,367 --> 00:57:45,533
+Ejemplos cotidianos de inspiración son los del "pálpito",
+
+664
+00:57:47,567 --> 00:57:50,000
+del enamoramiento,
+
+665
+00:57:52,367 --> 00:57:56,133
+de la comprensión súbita de situaciones complejas
+
+666
+00:57:56,867 --> 00:57:59,100
+y de resolución instantánea de problemas
+
+667
+00:57:59,867 --> 00:58:03,800
+que perturbaron durante mucho tiempo al sujeto.
+
+668
+00:58:05,033 --> 00:58:08,040
+Estos casos no garantizan el acierto,
+
+669
+00:58:09,001 --> 00:58:13,834
+la verdad, o la coincidencia del fenómeno respecto a su objeto,
+
+670
+00:58:14,007 --> 00:58:17,540
+pero los registros de "certeza" que los acompañan,
+
+671
+00:58:18,467 --> 00:58:22,733
+son de importancia fundamental para el sujeto.
+
+672
+00:58:24,567 --> 00:58:30,333
+Acá hemos pasado por encima muchas cosas,
+
+673
+00:58:32,005 --> 00:58:35,014
+que son un plomazo así que se leerán en su momento…
+
+674
+00:58:36,006 --> 00:58:37,239
+Pero no ahora.
+
+675
+00:58:41,267 --> 00:58:44,268
+Cosas lindas que dicen por ejemplo los Upanishads
+
+676
+00:58:44,007 --> 00:58:48,540
+“Cuando el espíritu humano se ha retirado al reposo,
+
+677
+00:58:50,533 --> 00:58:57,367
+retiene consigo los materiales de este mundo en que están contenidas las cosas todas,
+
+678
+00:58:57,009 --> 00:59:01,342
+y entonces crea y destruye su propia gloria e irradiación,
+
+679
+00:59:02,567 --> 00:59:05,700
+pues el espíritu brilla con su propia luz ”…
+
+680
+00:59:05,009 --> 00:59:08,376
+que cosas más lindas dicen esos tíos …
+
+681
+00:59:12,267 --> 00:59:18,500
+En la Biblia explica Daniel que sólo él vio la visión;
+
+682
+00:59:18,733 --> 00:59:21,400
+pues no la vieron los hombres que conmigo estaban,
+
+683
+00:59:22,002 --> 00:59:24,369
+sino que cayó sobre ellos un terror grande,
+
+684
+00:59:24,767 --> 00:59:27,233
+de modo que huyeron a esconderse.
+
+685
+00:59:27,005 --> 00:59:28,013
+La vio él.
+
+686
+00:59:30,367 --> 00:59:35,368
+En el Avesta. Los Gathas. Yasna XLVI ,2-3.
+
+687
+00:59:36,000 --> 00:59:40,267
+dice el profeta del Avesta
+
+688
+00:59:40,006 --> 00:59:43,012
+"Proclamaré esta primera enseñanza al Mundo.
+
+689
+00:59:45,667 --> 00:59:50,674
+Enseñanza que me reveló el Omnisciente Ahura Mazda…
+
+690
+00:59:52,967 --> 00:59:56,333
+La primera enseñanza de la primera religión universal,
+
+691
+00:59:56,006 --> 00:59:57,339
+lo primero de lo primero,
+
+692
+00:59:57,933 --> 00:59:59,767
+es la ostia,
+
+693
+01:00:00,367 --> 01:00:04,368
+eso que está diciendo… os revelaré…
+
+694
+01:00:06,967 --> 01:00:08,533
+la primera enseñanza.
+
+695
+01:00:10,833 --> 01:00:14,900
+Enseñanza que me reveló el Omnisciente Ahura Mazda.
+
+696
+01:00:15,167 --> 01:00:19,500
+Hablaré de los dos primeros Espíritus del mundo,
+
+697
+01:00:21,633 --> 01:00:26,641
+de los cuales el más bondadoso dijo así al dañino:
+
+698
+01:00:29,067 --> 01:00:31,300
+Ni nuestros pensamientos,
+
+699
+01:00:31,667 --> 01:00:33,433
+ni nuestros mandamientos,
+
+700
+01:00:33,733 --> 01:00:35,167
+ni nuestra inteligencia,
+
+701
+01:00:35,004 --> 01:00:36,171
+ni nuestras creencias,
+
+702
+01:00:36,833 --> 01:00:38,100
+ni nuestras obras,
+
+703
+01:00:38,004 --> 01:00:39,171
+ni nuestra conciencia,
+
+704
+01:00:39,008 --> 01:00:44,008
+ni nuestras almas están de acuerdo en nada".
+
+705
+01:00:47,733 --> 01:00:50,000
+¡Que maravilla!
+
+706
+01:00:50,004 --> 01:00:52,071
+Que quede claro…
+
+707
+01:00:53,633 --> 01:00:55,367
+¡en nada!.
+
+708
+01:00:58,008 --> 01:01:03,017
+Y de ahí sale ese dualismo, esa cosa, no se pueden encontrar nunca…
+
+709
+01:01:05,467 --> 01:01:07,470
+La luz y las tinieblas, todo ese rollo…
+
+710
+01:01:08,233 --> 01:01:11,500
+pero qué lindo, qué inteligente, qué raro,
+
+711
+01:01:14,333 --> 01:01:16,337
+claro, claro… Bueno…
+
+712
+01:01:18,005 --> 01:01:26,572
+d. Fenómenos accidentales y fenómenos deseados.
+
+713
+01:01:27,867 --> 01:01:33,600
+Fenómenos accidentales y fenómenos deseados,
+
+714
+01:01:33,006 --> 01:01:36,273
+cosas que uno quiere que se produzcan
+
+715
+01:01:39,006 --> 01:01:41,639
+La conciencia puede estructurarse en distintas formas
+
+716
+01:01:42,233 --> 01:01:45,900
+variando por acción de estímulos puntuales (internos y externos),
+
+717
+01:01:45,009 --> 01:01:49,776
+o por situaciones complejas que operan de modo no querido, de modo accidental.
+
+718
+01:01:51,367 --> 01:01:53,333
+La conciencia es "tomada".
+
+719
+01:01:53,333 --> 01:01:55,367
+La conciencia es "tomada".
+
+720
+01:01:56,833 --> 01:01:58,067
+Llamada:
+
+721
+01:01:58,067 --> 01:02:01,076
+Se entiende "tomada" como no dirigida ni manejada por el sujeto.
+
+722
+01:02:02,333 --> 01:02:05,000
+Bueno, entonces la conciencia “tomada”
+
+723
+01:02:05,003 --> 01:02:08,670
+en una situación en que la reversibilidad y la autocrítica
+
+724
+01:02:09,533 --> 01:02:12,100
+prácticamente quedan anuladas.
+
+725
+01:02:13,933 --> 01:02:17,939
+En el caso que nos ocupa, la "inspiración" irrumpe
+
+726
+01:02:20,004 --> 01:02:23,971
+en mecanismos y niveles, actuando a veces, de un modo menos evidente
+
+727
+01:02:24,967 --> 01:02:28,033
+como "trasfondo" de la conciencia.
+
+728
+01:02:28,533 --> 01:02:30,700
+El sujeto no se inspira por una cosa puntual
+
+729
+01:02:30,007 --> 01:02:35,874
+sino que empieza a estar en tema, a colocarse…
+
+730
+01:02:37,006 --> 01:02:38,473
+bueno…
+
+731
+01:02:42,003 --> 01:02:49,012
+Por otra parte, también la angustia, la náusea, el asco y otras configuraciones
+
+732
+01:02:50,004 --> 01:02:54,005
+pueden manifestarse súbitamente, súbitamente,
+
+733
+01:02:55,633 --> 01:03:01,167
+o mantenerse como trasfondo mental más o menos prolongado.
+
+734
+01:03:01,967 --> 01:03:02,968
+Ejemplificando:
+
+735
+01:03:03,006 --> 01:03:06,039
+cuando accidentalmente, levanto una piedra
+
+736
+01:03:07,033 --> 01:03:15,567
+y en ella descubro el bullir de minúsculos insectos que pueden pegarse a mi mano,
+
+737
+01:03:15,967 --> 01:03:24,500
+que me pueden invadir, experimento repulsión hacia esa vida informe que me acomete.
+
+738
+01:03:26,133 --> 01:03:29,134
+También registro una sorda aversión
+
+739
+01:03:29,005 --> 01:03:36,072
+cuando percibo algo pegajoso, húmedo y tibio que avanza hacia mí.
+
+740
+01:03:38,767 --> 01:03:43,833
+Pero la reacción inmediata va más allá del reflejo motriz
+
+741
+01:03:44,001 --> 01:03:46,068
+que responde a lo peligroso,
+
+742
+01:03:47,733 --> 01:03:50,100
+va más allá… va más allá…
+
+743
+01:03:51,533 --> 01:03:54,467
+ya que me compromete visceralmente,
+
+744
+01:03:55,000 --> 01:03:58,005
+¿a qué viene eso?, ¿a qué viene eso?, compromiso viceral…
+
+745
+01:04:03,167 --> 01:04:07,833
+provocando un rechazo que puede terminar en el reflejo de asco,
+
+746
+01:04:08,067 --> 01:04:11,833
+en la arcada o en la salivación excesiva de mi boca
+
+747
+01:04:13,006 --> 01:04:14,739
+y no es porque me haya comido algo,
+
+748
+01:04:19,004 --> 01:04:20,007
+¿que es eso?
+
+749
+01:04:27,001 --> 01:04:32,368
+y en el extraordinario registro de la distancia que se ha acortado",
+
+750
+01:04:32,967 --> 01:04:41,133
+"acortado" entre yo y el objeto, o entre yo y la situación asquerosa.
+
+751
+01:04:43,067 --> 01:04:49,500
+Este acortamiento del espacio en la representación,
+
+752
+01:04:50,433 --> 01:04:54,167
+pone al objeto en un tipo de existencia
+
+753
+01:04:54,433 --> 01:04:59,436
+que le permite "tocarme" o "introducirse" en mí,
+
+754
+01:05:01,005 --> 01:05:05,338
+suscitando la arcada como rito de expulsión,
+
+755
+01:05:08,033 --> 01:05:09,167
+como rito.
+
+756
+01:05:10,667 --> 01:05:11,900
+Ese objeto está lejos…
+
+757
+01:05:12,867 --> 01:05:16,600
+sin embargo parece tocarme, introducirse en mí y yo que estoy lejos
+
+758
+01:05:17,933 --> 01:05:22,100
+para defenderme de eso, como el niño con los monstruos y esas cosas,
+
+759
+01:05:22,008 --> 01:05:27,015
+resulta que hago una arcada y el otro esta ahí en sus cosas,
+
+760
+01:05:29,005 --> 01:05:32,238
+el se mete en mi y yo vomito,
+
+761
+01:05:34,667 --> 01:05:36,670
+un poco de compostura …
+
+762
+01:05:37,933 --> 01:05:39,967
+no tanta magia,
+
+763
+01:05:40,007 --> 01:05:43,016
+qué son esos hechos rituales, de actos y objetos…
+
+764
+01:05:45,433 --> 01:05:47,900
+es una vergüenza tremenda.
+
+765
+01:05:49,067 --> 01:05:53,076
+Rito de expulsión desde mi intracuerpo, es la ostia,
+
+766
+01:05:54,267 --> 01:05:59,600
+es tan poco real el acercamiento mencionado, tan poco real,
+
+767
+01:06:00,067 --> 01:06:03,067
+como el reflejo de arcada que le corresponde… a qué viene.
+
+768
+01:06:04,933 --> 01:06:09,940
+Por eso, la relación entre el objeto asqueroso y la respuesta de la arcada
+
+769
+01:06:11,000 --> 01:06:16,003
+toman características propias fuera de los objetos reales en juego.
+
+770
+01:06:18,667 --> 01:06:25,669
+Se convierten en un ritual en el que objeto y acto forman una estructura particular,
+
+771
+01:06:26,167 --> 01:06:28,133
+la estructura del asco.
+
+772
+01:06:31,167 --> 01:06:34,333
+También ocurre esa configuración accidental de conciencia
+
+773
+01:06:34,567 --> 01:06:39,233
+ante un objeto moral o estéticamente repugnante,
+
+774
+01:06:40,367 --> 01:06:46,933
+como es el caso de una novela plagada de ingeniosidad artificiosa,
+
+775
+01:06:48,367 --> 01:06:50,400
+de juegos de palabras,
+
+776
+01:06:52,007 --> 01:06:58,474
+de sensiblería tibia, dulzona y cargada de vitalidad difusa.
+
+777
+01:07:02,867 --> 01:07:05,867
+Es una novela, no tengo porque vomitar.
+
+778
+01:07:08,733 --> 01:07:11,567
+Todo eso termina provocando la defensa visceral
+
+779
+01:07:11,867 --> 01:07:15,633
+que evita una "invasión" profunda de mi cuerpo.
+
+780
+01:07:17,000 --> 01:07:20,008
+Esas estructuras de conciencia comprometen mi unidad,
+
+781
+01:07:21,003 --> 01:07:27,536
+afectando no solamente ideas, emociones, o reacciones motrices,
+
+782
+01:07:28,003 --> 01:07:31,003
+sino mi totalidad somática.
+
+783
+01:07:31,008 --> 01:07:33,075
+Mi totalidad física.
+
+784
+01:07:35,002 --> 01:07:37,009
+Creo oportuno hacer aquí una pequeña digresión.
+
+785
+01:07:39,009 --> 01:07:45,015
+Es posible considerar configuraciones de conciencia avanzadas,
+
+786
+01:07:46,833 --> 01:07:48,000
+avanzadas,
+
+787
+01:07:48,233 --> 01:07:53,767
+en las que todo tipo de violencia provocara repugnancia
+
+788
+01:07:55,233 --> 01:07:58,767
+con los correlatos somáticos del caso.
+
+789
+01:08:01,003 --> 01:08:04,670
+Tal estructuración de conciencia no violenta
+
+790
+01:08:05,008 --> 01:08:08,009
+podría llegar a instalarse en las sociedades
+
+791
+01:08:10,533 --> 01:08:14,540
+como una conquista cultural profunda.
+
+792
+01:08:17,003 --> 01:08:20,336
+Esto iría más allá de las ideas o de las emociones
+
+793
+01:08:21,001 --> 01:08:24,010
+que débilmente se manifiestan en las sociedades actuales,
+
+794
+01:08:25,733 --> 01:08:33,767
+para comenzar a formar parte del entramado psico somático y psico social del ser humano.
+
+795
+01:08:34,867 --> 01:08:36,875
+… una digresión nada más…
+
+796
+01:08:56,001 --> 01:08:58,034
+Volviendo a nuestro cauce.
+
+797
+01:08:58,006 --> 01:09:02,873
+Hemos reconocido estructuras de conciencia que se configuran accidentalmente.
+
+798
+01:09:05,002 --> 01:09:09,969
+También observamos que ocurren configuraciones que responden a deseos,
+
+799
+01:09:10,733 --> 01:09:15,737
+o a planes de quien se "pone" en una particular situación mental
+
+800
+01:09:16,567 --> 01:09:18,733
+para hacer surgir el fenómeno.
+
+801
+01:09:20,005 --> 01:09:23,772
+Desde luego, tal cosa a veces funciona y a veces no,
+
+802
+01:09:25,007 --> 01:09:28,011
+como ocurre con el deseo de inspiración artística,
+
+803
+01:09:30,867 --> 01:09:33,733
+o con el deseo de enamoramiento.
+
+804
+01:09:37,633 --> 01:09:43,267
+La conciencia inspirada, o mejor aún, la conciencia dispuesta a lograr inspiración
+
+805
+01:09:43,533 --> 01:09:46,534
+se muestra en la Filosofía, en la Ciencia, en el Arte,
+
+806
+01:09:46,633 --> 01:09:49,167
+y también en la vida cotidiana con ejemplos variados y sugestivos.
+
+807
+01:09:49,167 --> 01:09:54,000
+Sin embargo, es en la Mística especialmente donde la búsqueda de inspiración
+
+808
+01:09:54,002 --> 01:09:59,335
+ha hecho surgir prácticas, prácticas y sistemas psicológicos
+
+809
+01:09:59,933 --> 01:10:04,100
+que han tenido y tienen desparejo nivel de desarrollo.
+
+810
+01:10:05,633 --> 01:10:09,267
+Reconocemos a las técnicas de “trance”, trance,
+
+811
+01:10:10,006 --> 01:10:14,173
+como pertenecientes a la arqueología de la inspiración mística….
+
+812
+01:10:16,167 --> 01:10:17,800
+Existen.
+
+813
+01:10:20,433 --> 01:10:24,433
+En la Psicología oficial se considera al trance,
+
+814
+01:10:24,433 --> 01:10:27,900
+como “un estado de disociación de la conciencia,
+
+815
+01:10:28,002 --> 01:10:31,335
+caracterizado por la suspensión de todo movimiento voluntario
+
+816
+01:10:31,008 --> 01:10:33,775
+y la existencia de ciertas actividades automáticas”.
+
+817
+01:10:34,867 --> 01:10:39,800
+Diccionario Enciclopédico de la Psique..etc, bueno.
+
+818
+01:10:41,000 --> 01:10:43,067
+Reconocemos a las técnicas de “trance”
+
+819
+01:10:43,003 --> 01:10:45,010
+como pertenecientes a la arqueología de la inspiración mística.
+
+820
+01:10:46,233 --> 01:10:52,400
+Así, al trance lo encontramos en las formas más antiguas de la magia y la religión.
+
+821
+01:10:53,467 --> 01:10:58,100
+Para provocarlo, los pueblos han apelado a la preparación de bebidas
+
+822
+01:11:00,000 --> 01:11:04,667
+de vegetales más o menos tóxicos y a la aspiración de humos y vapores.
+
+823
+01:11:06,007 --> 01:11:10,174
+Otras técnicas más elaboradas, en el sentido de permitir al sujeto controlar
+
+824
+01:11:11,067 --> 01:11:16,068
+y hacer progresar su experiencia mística, se han ido depurando a lo largo del tiempo.
+
+825
+01:11:16,005 --> 01:11:20,012
+Las danzas rituales, las ceremonias repetitivas y agotadoras,
+
+826
+01:11:21,667 --> 01:11:26,733
+los ayunos, las oraciones, los ejercicios de concentración y meditación
+
+827
+01:11:27,001 --> 01:11:31,134
+han tenido considerable evolución en el tiempo.
+
+828
+01:11:32,967 --> 01:11:34,400
+Por acá hay una llamada…
+
+829
+01:11:34,633 --> 01:11:42,100
+por ejemplo el Soma para los indios y el Haoma para los iranios,
+
+830
+01:11:42,008 --> 01:11:46,014
+ha sido la bebida embriagadora más antigua.
+
+831
+01:11:48,467 --> 01:11:52,200
+En los Himnos Védicos, en 730 (2), se lee:
+
+832
+01:11:53,000 --> 01:12:02,002
+“Tú eres el cantor, tú eres el poeta, tú eres el dulce jugo nacido de la planta.
+
+833
+01:12:02,833 --> 01:12:06,838
+En la embriaguez, tú eres el dador de todos los bienes”.
+
+834
+01:12:11,067 --> 01:12:11,074
+Por acá dice:
+
+835
+01:12:11,833 --> 01:12:17,667
+En Delfos la sacerdotisa de Apolo (Pitia o Pitonisa),
+
+836
+01:12:19,233 --> 01:12:22,000
+se sentaba en un trípode
+
+837
+01:12:23,002 --> 01:12:29,469
+colocado junto a la grieta de una roca de la que salía un vapor intoxicante
+
+838
+01:12:30,002 --> 01:12:34,569
+y comenzaba a profetizar con palabras incoherentes.
+
+839
+01:12:37,133 --> 01:12:40,967
+En los días anteriores, anteriores,
+
+840
+01:12:40,967 --> 01:12:48,600
+la Pitia se había sometido al ayuno y a la masticación de hojas de laurel.
+
+841
+01:12:58,733 --> 01:13:01,300
+El desplazamiento del yo. La suspensión del yo.
+
+842
+01:13:03,003 --> 01:13:04,936
+La sibila de Cumas,
+
+843
+01:13:08,167 --> 01:13:13,033
+no queriendo ser tomada por la terrible inspiración
+
+844
+01:13:14,433 --> 01:13:19,100
+se desespera y retorciéndose, grita:
+
+845
+01:13:19,005 --> 01:13:22,138
+“¡Ya viene, ya viene el dios!”.
+
+846
+01:13:24,133 --> 01:13:28,142
+Y al dios Apolo le cuesta poco bajar desde su bosquecillo sagrado
+
+847
+01:13:29,003 --> 01:13:33,009
+hasta el antro profundo, en donde se apodera de la profetiza.
+
+848
+01:13:37,167 --> 01:13:38,169
+La llamada dice:
+
+849
+01:13:38,367 --> 01:13:42,800
+Virgilio, que hace una descripción fantástica de la anécdota de Cumas,
+
+850
+01:13:43,033 --> 01:13:45,867
+seguramente cuenta con información más que suficiente
+
+851
+01:13:46,005 --> 01:13:51,738
+sobre el procedimiento de las sibilas a lo largo de la historia de Grecia y Roma.
+
+852
+01:13:52,833 --> 01:13:56,867
+De todos modos, en el Libro VI de la Eneida, dice la Sibila:
+
+853
+01:13:57,367 --> 01:14:00,000
+… nosotros nos gusta más como lo pusimos nosotros…
+
+854
+01:14:00,008 --> 01:14:02,011
+y en Virgilio dice así la sibila:
+
+855
+01:14:04,767 --> 01:14:07,769
+"¡He aquí, he aquí el dios!.
+
+856
+01:14:11,433 --> 01:14:14,167
+Ya viene, ya viene el dios…
+
+857
+01:14:16,333 --> 01:14:20,340
+no, esto lo está explicando Virgilio a su modo…
+
+858
+01:14:23,000 --> 01:14:26,633
+es un romano, bueno…
+
+859
+01:14:28,133 --> 01:14:30,667
+"¡He aquí, he aquí al dios!.
+
+860
+01:14:31,003 --> 01:14:33,012
+Apenas pronunció estas palabras a la entrada de la cueva,
+
+861
+01:14:34,467 --> 01:14:39,800
+dice Virgilio, inmutósele el rostro y perdió el color
+
+862
+01:14:40,033 --> 01:14:46,038
+y se le erizaron los cabellos; jadeando y sin aliento, hinchando el pecho,
+
+863
+01:14:47,167 --> 01:14:52,633
+lleno de sacro furor, parece que va creciendo y que su voz resuena
+
+864
+01:14:52,967 --> 01:14:55,800
+no como la de los demás mortales
+
+865
+01:14:56,033 --> 01:15:01,038
+porque la inspira el numen cada vez ya más cercano".
+
+866
+01:15:14,667 --> 01:15:18,673
+En este caso y en diferentes culturas, la entrada al trance ocurre por interiorización del yo
+
+867
+01:15:19,767 --> 01:15:21,300
+y por una exaltación emotiva
+
+868
+01:15:21,967 --> 01:15:30,500
+y por una exaltación emotiva, así que los que practican estas cosas fíjense bien
+
+869
+01:15:30,867 --> 01:15:33,867
+y por una exaltación emotiva …
+
+870
+01:15:37,733 --> 01:15:39,167
+y por una exaltación emotiva
+
+871
+01:15:39,433 --> 01:15:45,067
+en la que está copresente la imagen de un dios, o de una fuerza, o de un espíritu,
+
+872
+01:15:45,767 --> 01:15:48,773
+que toma y suplanta la personalidad humana.
+
+873
+01:15:51,567 --> 01:15:56,800
+En los casos de trance, el sujeto se pone a disposición de esa inspiración
+
+874
+01:15:57,067 --> 01:16:02,600
+que le permite captar realidades y ejercitar poderes desconocidos para él
+
+875
+01:16:03,533 --> 01:16:05,267
+en la vida cotidiana.
+
+876
+01:16:06,033 --> 01:16:10,000
+Sin embargo, leemos a menudo que el sujeto hace resistencia
+
+877
+01:16:11,033 --> 01:16:16,000
+y hasta lucha con un espíritu o un dios tratando de evitar el arrebato
+
+878
+01:16:18,000 --> 01:16:21,067
+en unas convulsiones que hacen recordar a la epilepsia,
+
+879
+01:16:21,005 --> 01:16:25,438
+pero eso es parte de un ritual que afirma el poder de la entidad
+
+880
+01:16:26,467 --> 01:16:29,033
+que doblega la voluntad normal.
+
+881
+01:16:29,533 --> 01:16:30,534
+Llamada:
+
+882
+01:16:31,467 --> 01:16:33,476
+los antiguos llamaron a la epilepsia, la "enfermedad divina".
+
+883
+01:16:36,004 --> 01:16:39,008
+En las convulsiones de ese mal, creyeron ver una lucha
+
+884
+01:16:40,033 --> 01:16:44,042
+en la que el sujeto se defendía de la alteración que llegaba hasta él.
+
+885
+01:16:45,733 --> 01:16:52,735
+Los dioses anunciaban su llegada dándole al sujeto un "aura" que lo prevenía.
+
+886
+01:16:54,067 --> 01:16:59,033
+Sentía que venía, sentía que venía con el “aura”.
+
+887
+01:17:00,867 --> 01:17:05,869
+Después del "ataque", después del ataque, se suponía
+
+888
+01:17:06,067 --> 01:17:09,033
+que el sujeto quedaba inspirado para profetizar.
+
+889
+01:17:09,367 --> 01:17:15,700
+No en vano se pretendió que Alejandro, que César y hasta Napoleón
+
+890
+01:17:16,000 --> 01:17:21,033
+hubieran padecido el "mal divino" porque, después de todo, eran gente de lucha.
+
+891
+01:17:21,004 --> 01:17:24,012
+Eran atacados y entonces ellos se defendían a su modo…
+
+892
+01:17:25,007 --> 01:17:34,140
+En Centroamérica, el culto del Vudú haitiano
+
+893
+01:17:37,867 --> 01:17:39,533
+nos permiten comprender técnicas de trance
+
+894
+01:17:39,767 --> 01:17:45,033
+que se realizan con danzas apoyadas con pócimas producidas en base a un pez tóxico.
+
+895
+01:17:46,004 --> 01:17:49,537
+En Brasil, la Macumba nos muestra otras variantes místicas del trance
+
+896
+01:17:49,933 --> 01:17:55,267
+logradas mediante danzas y apoyadas con una bebida alcohólica y tabaco.
+
+897
+01:17:55,767 --> 01:17:58,769
+No todos los casos de trance son tan vistosos como los citados.
+
+898
+01:17:59,833 --> 01:18:01,840
+Algunas técnicas indias, las de los "yantras",
+
+899
+01:18:03,167 --> 01:18:09,300
+permiten llegar al trance por interiorización de triángulos cada vez más pequeños
+
+900
+01:18:09,003 --> 01:18:14,005
+en una figura geométrica compleja que ocasionalmente, termina en un punto central.
+
+901
+01:18:18,467 --> 01:18:20,933
+También, en la técnica de los "mantrams",
+
+902
+01:18:21,567 --> 01:18:27,533
+por repetición de un sonido profundo que el sujeto va profiriendo,
+
+903
+01:18:28,033 --> 01:18:30,900
+se llega al ensimismamiento.
+
+904
+01:18:33,001 --> 01:18:36,334
+En estas contemplaciones visuales o auditivas,
+
+905
+01:18:37,333 --> 01:18:43,567
+muchos practicantes occidentales no tienen éxito
+
+906
+01:18:45,467 --> 01:18:49,200
+porque no se preparan afectivamente…
+
+907
+01:18:50,167 --> 01:18:52,433
+apretar un botón y…no es así,
+
+908
+01:18:52,867 --> 01:18:59,700
+porque no se preparan afectivamente limitándose a repetir figuras o sonidos
+
+909
+01:19:00,007 --> 01:19:04,840
+sin interiorizarlos con la fuerza emotiva o devocional
+
+910
+01:19:05,009 --> 01:19:09,576
+que se requiere para que la representación cenestésica
+
+911
+01:19:10,867 --> 01:19:14,400
+acompañe al estrechamiento de la atención.
+
+912
+01:19:17,867 --> 01:19:21,900
+Estos ejercicios se repiten tantas veces como sea necesario
+
+913
+01:19:22,767 --> 01:19:27,900
+hasta que el practicante experimente la sustitución de su personalidad
+
+914
+01:19:28,004 --> 01:19:30,871
+y la inspiración se haga plena.
+
+915
+01:19:34,367 --> 01:19:37,700
+El desplazamiento del yo y la sustitución por otras entidades
+
+916
+01:19:37,933 --> 01:19:39,938
+puede ser verificado en los cultos mencionados
+
+917
+01:19:41,003 --> 01:19:44,004
+y hasta en las más recientes corrientes Espíritas.
+
+918
+01:19:46,133 --> 01:19:50,467
+En estas, el "médium" en trance es tomado por una entidad espiritual
+
+919
+01:19:51,000 --> 01:19:54,004
+que sustituye a su personalidad habitual.
+
+920
+01:19:55,008 --> 01:19:58,011
+No ocurre algo tan diferente con el trance hipnótico
+
+921
+01:20:01,004 --> 01:20:05,137
+cuando el sujeto interioriza profundamente las sugerencias,
+
+922
+01:20:06,033 --> 01:20:12,900
+las sugestiones del operador, llevando la representación de la voz del operador
+
+923
+01:20:13,002 --> 01:20:16,635
+al "lugar" que normalmente ocupa el yo habitual.
+
+924
+01:20:18,007 --> 01:20:21,008
+Te digo ahora, es la voz del operador…
+
+925
+01:20:22,004 --> 01:20:25,007
+Te da las órdenes, no da las órdenes el yo.
+
+926
+01:20:29,267 --> 01:20:31,274
+Desde luego, para ser "tomado" por el operador,
+
+927
+01:20:32,167 --> 01:20:35,133
+el sujeto debe ponerse en un estado receptivo de "fe"
+
+928
+01:20:35,333 --> 01:20:37,800
+y seguir sin dudar las instrucciones recibidas.
+
+929
+01:20:38,433 --> 01:20:41,700
+Este punto muestra una característica importante de la conciencia.
+
+930
+01:20:42,067 --> 01:20:47,300
+Estamos diciendo que mientras se realiza una operación vigílica atenta,
+
+931
+01:20:47,667 --> 01:20:51,800
+aparecen ensueños que a veces pasan inadvertidos
+
+932
+01:20:52,333 --> 01:20:57,337
+o terminan por desviar la dirección de los actos mentales que se llevaban a cabo.
+
+933
+01:20:58,005 --> 01:21:00,008
+El campo de copresencia actúa siempre
+
+934
+01:21:01,000 --> 01:21:03,367
+aunque los objetos de conciencia presentes
+
+935
+01:21:03,667 --> 01:21:06,433
+se muestren en el foco atencional.
+
+936
+01:21:07,133 --> 01:21:10,900
+La gran cantidad de actos automáticos que se realizan en vigilia
+
+937
+01:21:12,006 --> 01:21:15,008
+muestra esta aptitud de la conciencia para realizar
+
+938
+01:21:16,000 --> 01:21:19,133
+diferentes trabajos simultáneos.
+
+939
+01:21:21,007 --> 01:21:25,140
+Ciertamente, la disociación puede alcanzar cotas patológicas
+
+940
+01:21:26,067 --> 01:21:28,433
+pero también se puede manifestar con fuerza
+
+941
+01:21:28,667 --> 01:21:31,600
+en casi todos los fenómenos de inspiración.
+
+942
+01:21:32,933 --> 01:21:35,367
+Por otra parte, el desplazamiento del yo
+
+943
+01:21:36,133 --> 01:21:39,141
+puede no ser completo en el trance espírita o la hipnosis,
+
+944
+01:21:40,667 --> 01:21:43,933
+como se comprueba en la llamada “escritura automática”
+
+945
+01:21:44,567 --> 01:21:47,633
+que se efectúa sin tropiezos aunque la atención del sujeto
+
+946
+01:21:47,633 --> 01:21:52,500
+esté puesta en el diálogo o en otras actividades.
+
+947
+01:21:52,833 --> 01:21:56,867
+Con frecuencia, encontramos esta disociación en la “criptografía”
+
+948
+01:21:57,633 --> 01:21:59,639
+en que la mano dibuja mientras el sujeto
+
+949
+01:22:00,467 --> 01:22:06,233
+desarrolla una conversación telefónica muy concentrada.
+
+950
+01:22:10,008 --> 01:22:14,941
+Avanzando hacia el ensimismamiento, podemos llegar a un punto,
+
+951
+01:22:17,267 --> 01:22:20,700
+en el ensimismamiento podemos llegar a un punto
+
+952
+01:22:23,867 --> 01:22:29,133
+en que los automatismos queden superados
+
+953
+01:22:30,733 --> 01:22:36,800
+y ya no se trate de desplazamientos ni sustituciones del yo.
+
+954
+01:22:39,001 --> 01:22:43,007
+Tenemos a mano el ejemplo que nos da la práctica de la “oración del corazón”
+
+955
+01:22:44,067 --> 01:22:47,074
+realizada por los monjes ortodoxos del monte Athos.
+
+956
+01:22:49,003 --> 01:22:54,004
+La recomendación de Evagrio Pontico, resulta muy adecuada
+
+957
+01:22:54,004 --> 01:22:59,371
+para eludir la representaciones por lo menos las de los sentidos externos:
+
+958
+01:23:00,002 --> 01:23:08,003
+“No imagines la divinidad en ti cuando oras, no imagines,
+
+959
+01:23:10,833 --> 01:23:16,867
+ni dejes que tu inteligencia acepte la impresión de una forma cualquiera;
+
+960
+01:23:18,433 --> 01:23:22,436
+mantente inmaterial y tú comprenderás”.
+
+961
+01:23:23,005 --> 01:23:25,838
+Bueno… interesante.
+
+962
+01:23:27,867 --> 01:23:30,333
+En grandes trazos, la oración funciona así:
+
+963
+01:23:32,002 --> 01:23:34,007
+en el caso del monte Athos funciona así,
+
+964
+01:23:35,333 --> 01:23:40,700
+el practicante en retiro silencioso se concentra en su corazón
+
+965
+01:23:43,005 --> 01:23:49,772
+y tomando una frase corta inhala suavemente
+
+966
+01:23:50,533 --> 01:23:55,267
+llevando la frase con el aire hasta el corazón.
+
+967
+01:23:57,933 --> 01:23:59,938
+Uno no puede decir cosas… eh el aire no entra al corazón…
+
+968
+01:24:00,007 --> 01:24:03,040
+no hable así, es otra cosa, son imágenes…
+
+969
+01:24:05,004 --> 01:24:11,637
+eso es obvio, es que estamos hablando de otra cosa.
+
+970
+01:24:20,533 --> 01:24:23,700
+Entonces en grandes trazos, la oración funciona así:
+
+971
+01:24:27,003 --> 01:24:33,236
+el practicante en retiro silencioso se concentra en su corazón
+
+972
+01:24:34,067 --> 01:24:36,033
+y tomando una frase corta,
+
+973
+01:24:36,567 --> 01:24:39,533
+hay que ver qué es una frase corta,
+
+974
+01:24:40,567 --> 01:24:42,574
+tomando una frase corta inhala suavemente
+
+975
+01:24:43,467 --> 01:24:47,800
+llevando la frase con el aire hasta el corazón.
+
+976
+01:24:53,067 --> 01:24:55,533
+Cuando ha terminado la inhalación,
+
+977
+01:24:55,009 --> 01:25:00,342
+comillas “presiona” para que llegue más adentro.
+
+978
+01:25:04,004 --> 01:25:08,005
+Después va exhalando muy suavemente el aire viciado
+
+979
+01:25:08,009 --> 01:25:11,009
+sin perder la atención en el corazón.
+
+980
+01:25:12,833 --> 01:25:16,467
+Esta práctica era repetida por los monjes muchas veces al día
+
+981
+01:25:17,004 --> 01:25:20,371
+hasta que aparecían algunos indicadores de progreso
+
+982
+01:25:21,933 --> 01:25:25,700
+como la “iluminación” paréntesis (del espacio de representación).
+
+983
+01:25:29,009 --> 01:25:33,011
+Siendo precisos, hemos de admitir el pasaje por el estado de trance
+
+984
+01:25:34,005 --> 01:25:38,538
+en algún momento de las repeticiones de las oraciones usadas.
+
+985
+01:25:40,833 --> 01:25:43,667
+El pasaje por el trance no es muy diferente
+
+986
+01:25:44,000 --> 01:25:47,567
+al que se produce en los trabajos con los yantras o mantrams,
+
+987
+01:25:48,006 --> 01:25:50,573
+pero como en la práctica de la “oración del corazón”,
+
+988
+01:25:51,008 --> 01:25:53,575
+no se tiene la intención de ser “tomado”
+
+989
+01:25:54,009 --> 01:25:57,012
+por entidades que reemplacen la propia personalidad,
+
+990
+01:25:58,933 --> 01:26:05,300
+el practicante termina superando el trance y “suspendiendo” la actividad del yo
+
+991
+01:26:08,008 --> 01:26:11,009
+y “suspendiendo” la actividad del yo…
+
+992
+01:26:14,233 --> 01:26:16,267
+Como pueden hacer esos tíos…
+
+993
+01:26:18,833 --> 01:26:21,834
+En este sentido, en las prácticas del Yoga
+
+994
+01:26:23,567 --> 01:26:27,700
+se puede pasar también por distintos tipos y niveles de trance,
+
+995
+01:26:29,133 --> 01:26:34,140
+pero se debe tener en cuenta lo que nos dice Patanjali en el Sutra II del Libro I :
+
+996
+01:26:35,267 --> 01:26:42,900
+“el yoga aspira a la liberación de las perturbaciones de la mente”,
+
+997
+01:26:43,167 --> 01:26:45,833
+de las perturbaciones de la mente.
+
+998
+01:26:47,001 --> 01:26:49,334
+La dirección que lleva ese sistema de prácticas
+
+999
+01:26:49,633 --> 01:26:51,638
+va hacia la superación del yo habitual,
+
+1000
+01:26:53,007 --> 01:26:56,014
+la superación de los trances y la superación de las disociaciones.
+
+1001
+01:26:59,533 --> 01:27:03,537
+En el ensimismamiento avanzado, fuera de todo trance y en plena vigilia
+
+1002
+01:27:04,007 --> 01:27:09,574
+se produce esa "suspensión del yo" de la que tenemos indicadores suficientes.
+
+1003
+01:27:11,267 --> 01:27:14,271
+Es evidente que desde el principio de su práctica,
+
+1004
+01:27:15,001 --> 01:27:19,834
+el sujeto se orienta hacia la desaparición de sus "ruidos",
+
+1005
+01:27:21,967 --> 01:27:25,733
+de sus ruidos de conciencia amortiguando las percepciones externas,
+
+1006
+01:27:26,000 --> 01:27:30,001
+las representaciones, los recuerdos y las expectativas.
+
+1007
+01:27:31,009 --> 01:27:33,942
+Algunas prácticas del yoga permiten aquietar la mente
+
+1008
+01:27:35,167 --> 01:27:39,633
+y colocar al yo en estado de suspensión durante un breve lapso.
+
+1009
+01:27:43,007 --> 01:27:47,013
+Los Aforismos del Yoga o Yoga- Sutra, recopilados por Patanjali en el siglo II,
+
+1010
+01:27:49,333 --> 01:27:53,334
+es el primer libro de Yoga que se conserva íntegro
+
+1011
+01:27:53,008 --> 01:27:56,841
+en sus 195 breves y magistrales sentencias.
+
+1012
+01:28:01,002 --> 01:28:02,835
+Bien, finalmente…
+
+1013
+01:28:03,004 --> 01:28:05,010
+El acceso a los niveles profundos.
+
+1014
+01:28:07,367 --> 01:28:08,376
+¿Se entiende? Mas o menos.
+
+1015
+01:28:19,003 --> 01:28:24,136
+Sin duda que la sustitución del yo por una fuerza, un espíritu,
+
+1016
+01:28:24,433 --> 01:28:28,700
+un dios, o la personalidad de un hechicero o hipnotizador,
+
+1017
+01:28:29,433 --> 01:28:31,767
+ha sido algo corriente en la historia.
+
+1018
+01:28:34,004 --> 01:28:37,971
+También ha sido algo conocido aunque no tan corriente,
+
+1019
+01:28:38,567 --> 01:28:41,569
+el hecho de suspender el yo evitando toda sustitución,
+
+1020
+01:28:42,000 --> 01:28:44,033
+como hemos visto en algún tipo de yoga
+
+1021
+01:28:44,233 --> 01:28:46,667
+y en algunas prácticas místicas avanzadas.
+
+1022
+01:28:47,004 --> 01:28:51,011
+Ahora bien, si alguien pudiera suspender
+
+1023
+01:28:53,002 --> 01:28:56,006
+y luego hacer desaparecer a su yo,
+
+1024
+01:28:58,005 --> 01:29:03,738
+perdería todo control estructural de la temporalidad y espacialidad de sus procesos mentales.
+
+1025
+01:29:09,004 --> 01:29:13,071
+Se encontraría en una situación anterior a la del aprendizaje
+
+1026
+01:29:14,167 --> 01:29:16,171
+de sus primeros pasos infantiles.
+
+1027
+01:29:17,667 --> 01:29:23,100
+No podría comunicar entre si, ni coordinar sus mecanismos de conciencia;
+
+1028
+01:29:25,000 --> 01:29:30,567
+no podría apelar a su memoria; no podría relacionarse con el mundo
+
+1029
+01:29:31,000 --> 01:29:35,006
+y no podría avanzar en su aprendizaje.
+
+1030
+01:29:36,233 --> 01:29:41,500
+No estaríamos en presencia simplemente de un yo disociado
+
+1031
+01:29:42,000 --> 01:29:46,333
+en algunos aspectos, como pudiera ocurrir en ciertas afecciones mentales,
+
+1032
+01:29:46,767 --> 01:29:52,500
+sino que nos encontraríamos con alguien en un estado parecido al del sueño vegetativo.
+
+1033
+01:29:55,233 --> 01:29:56,241
+No hay imágenes, no hay recuerdos…,
+
+1034
+01:29:57,967 --> 01:30:01,967
+si alguien lograra hacer desaparecer su yo,
+
+1035
+01:30:05,002 --> 01:30:06,335
+sería una suerte de vegetal.
+
+1036
+01:30:12,001 --> 01:30:14,734
+Ríndete a la desaparición del yo….
+
+1037
+01:30:16,009 --> 01:30:18,009
+No hable así, no hable así.
+
+1038
+01:30:20,967 --> 01:30:25,000
+No puede andar por la calle, lo atropella un auto, no coordina.
+
+1039
+01:30:25,367 --> 01:30:33,200
+No es así, el ego, el ego… no es así.
+
+1040
+01:30:36,833 --> 01:30:42,836
+Esa desaparición del yo, entendamos, no es así,
+
+1041
+01:30:44,533 --> 01:30:46,167
+no se sabe de que se está hablando.
+
+1042
+01:30:46,009 --> 01:30:48,014
+Se está hablando de determinadas circunstancias
+
+1043
+01:30:49,867 --> 01:30:53,876
+en la que el yo puede ser suspendido y del yo,
+
+1044
+01:30:55,133 --> 01:30:58,136
+de lo que pasa en ese momento de suspensión,
+
+1045
+01:30:58,933 --> 01:31:03,941
+traer un recuerdo de representaciones traducidas
+
+1046
+01:31:05,233 --> 01:31:06,242
+de lo que le pasó en ese momento…
+
+1047
+01:31:08,167 --> 01:31:09,000
+bueno.
+
+1048
+01:31:15,067 --> 01:31:20,433
+Sin embargo, es posible llegar a la situación mental de supresión del yo,
+
+1049
+01:31:21,033 --> 01:31:22,367
+no en la vida cotidiana,
+
+1050
+01:31:22,667 --> 01:31:26,668
+no en la vida cotidiana, no en la vida cotidiana …
+
+1051
+01:31:27,000 --> 01:31:33,533
+pero si en determinadas condiciones que parten de la suspensión del yo.
+
+1052
+01:31:36,767 --> 01:31:42,300
+La entrada a los estados profundos ocurre desde la suspensión del yo.
+
+1053
+01:31:44,008 --> 01:31:50,009
+Ya desde esa suspensión, se producen registros significativos de "conciencia lúcida"
+
+1054
+01:31:52,733 --> 01:31:56,500
+y comprensión de las propias limitaciones mentales,
+
+1055
+01:31:56,009 --> 01:31:58,018
+lo que constituye un gran avance.
+
+1056
+01:32:01,001 --> 01:32:06,134
+En ese tránsito se debe tener en cuenta algunas condiciones ineludibles:
+
+1057
+01:32:06,006 --> 01:32:11,010
+1.- que el practicante tenga claro el Propósito de lo que desea lograr,
+
+1058
+01:32:13,167 --> 01:32:19,176
+que el practicante tenga claro el Propósito, el Propósito, de lo que desea lograr …
+
+1059
+01:32:24,967 --> 01:32:27,633
+como objetivo final de su trabajo.
+
+1060
+01:32:28,267 --> 01:32:30,800
+Va hacia allá, sabe hacia donde va,
+
+1061
+01:32:31,067 --> 01:32:35,100
+¿lo sabe, lo sabe?... no estudia no entiende, no funciona …
+
+1062
+01:32:39,007 --> 01:32:44,740
+primero, que el practicante tenga en claro el Propósito de lo que desea lograr
+
+1063
+01:32:45,008 --> 01:32:48,441
+como objetivo final de su trabajo;
+
+1064
+01:32:49,667 --> 01:32:56,676
+2.- que cuente con suficiente energía psicofísica
+
+1065
+01:32:58,633 --> 01:33:01,634
+para mantener su atención ensimismada
+
+1066
+01:33:02,267 --> 01:33:05,633
+y concentrada en la suspensión del yo
+
+1067
+01:33:08,233 --> 01:33:14,400
+3.- que pueda continuar sin solución de continuidad en la profundización
+
+1068
+01:33:14,006 --> 01:33:16,010
+del estado de suspensión hasta que desaparezcan
+
+1069
+01:33:17,267 --> 01:33:19,700
+las referencias espaciales y temporales.
+
+1070
+01:33:23,267 --> 01:33:28,267
+Con respecto al Propósito, se debe considerar a éste
+
+1071
+01:33:28,008 --> 01:33:33,015
+como la dirección de todo el proceso pero sin que ocupe el foco de la atención.
+
+1072
+01:33:36,003 --> 01:33:41,236
+Si ese propósito está en ese foco atencional, quiero lograr tal cosa bueno ahí te quedas.
+
+1073
+01:33:43,967 --> 01:33:51,700
+Cómo haces entonces, que el propósito actúe y no se produzca la paradoja
+
+1074
+01:33:52,367 --> 01:33:55,533
+de que no tienes que atender a eso y si atiendes a eso lo frenas
+
+1075
+01:33:55,009 --> 01:33:57,342
+entonces cómo haces para que trabaje.
+
+1076
+01:33:58,008 --> 01:34:01,975
+Te tienes que arreglar para meterlo en copresencia.
+
+1077
+01:34:03,003 --> 01:34:10,870
+Desde la copresencia, para que cada paso, con tiempo, con regularidad
+
+1078
+01:34:11,005 --> 01:34:15,005
+y desde ahí desde donde se manejan esos fenómenos
+
+1079
+01:34:15,867 --> 01:34:18,868
+donde no requiere que la atención esté concentrada en los objetos
+
+1080
+01:34:19,433 --> 01:34:22,800
+porque justamente se trata de desconcentrar de todo objeto.
+
+1081
+01:34:25,007 --> 01:34:27,013
+Parece una cosa extraordinaria pero sucede muy a menudo,
+
+1082
+01:34:28,633 --> 01:34:33,367
+sabemos donde vamos, solito llevamos el auto con nuestro cuerpo,
+
+1083
+01:34:33,009 --> 01:34:36,176
+por aquí sí, por acá no, sin pensar en eso,
+
+1084
+01:34:38,233 --> 01:34:40,237
+porque si pensamos en eso chocamos.
+
+1085
+01:34:41,007 --> 01:34:45,440
+Sabemos cuales son las huellas.
+
+1086
+01:34:47,933 --> 01:34:51,600
+Y cuando abrochamos los botones de la camisa,
+
+1087
+01:34:51,933 --> 01:34:54,300
+no están pensando en ellos.
+
+1088
+01:34:54,933 --> 01:34:57,942
+Es un acto automático, copresencia de hábitos que nos lleva
+
+1089
+01:34:59,967 --> 01:35:02,967
+a saber donde está el botón 3 y donde está el botón 4.
+
+1090
+01:35:05,133 --> 01:35:09,000
+Miles de datos trabajan desde esa copresencia.
+
+1091
+01:35:09,467 --> 01:35:11,333
+Claro estamos hablando de cosas serias
+
+1092
+01:35:11,008 --> 01:35:13,012
+y es bueno rescatar que en las cosas más elementales
+
+1093
+01:35:14,006 --> 01:35:15,015
+está también ese trabajo.
+
+1094
+01:35:18,001 --> 01:35:22,006
+Trabajo de las copresencias que guía, da direcciones,
+
+1095
+01:35:22,933 --> 01:35:29,500
+el ser humano, lo guía desde esos propósitos profundos.
+
+1096
+01:35:35,003 --> 01:35:39,036
+Con respecto al Propósito, se debe considerar a éste
+
+1097
+01:35:40,033 --> 01:35:43,667
+como la dirección de todo el proceso pero sin que ocupe el foco atencional.
+
+1098
+01:35:44,533 --> 01:35:47,537
+Estamos diciendo que el Propósito debe ser "grabado"
+
+1099
+01:35:48,667 --> 01:35:51,672
+con suficiente carga afectiva,
+
+1100
+01:35:52,433 --> 01:35:54,367
+como para operar copresentemente
+
+1101
+01:35:54,633 --> 01:35:57,800
+mientras la atención está ocupada en la suspensión del yo
+
+1102
+01:35:58,233 --> 01:35:59,500
+y en los pasos posteriores.
+
+1103
+01:35:59,008 --> 01:36:02,012
+Esta preparación condiciona todo el trabajo posterior.
+
+1104
+01:36:05,005 --> 01:36:07,006
+En cuanto a la energía psicofísica necesaria
+
+1105
+01:36:07,006 --> 01:36:11,007
+para el mantenimiento de la atención en un interesante nivel de concentración,
+
+1106
+01:36:12,001 --> 01:36:18,434
+el principal impulso proviene del interés que forma parte del Propósito.
+
+1107
+01:36:19,006 --> 01:36:20,039
+Hay que sacar energía…
+
+1108
+01:36:21,000 --> 01:36:22,967
+Nada de sacar ni poner…
+
+1109
+01:36:24,833 --> 01:36:30,835
+Si uno tiene interés por eso… eso funciona.
+
+1110
+01:36:37,733 --> 01:36:41,735
+Al comprobar la falta de potencia y permanencia,
+
+1111
+01:36:42,006 --> 01:36:46,939
+se debe revisar la preparación que se ha hecho del Propósito.
+
+1112
+01:36:49,333 --> 01:36:52,200
+Se requiere una conciencia despejada de fatiga
+
+1113
+01:36:53,033 --> 01:36:57,400
+y una mínima educación de la reducción del foco atencional sobre un solo objeto.
+
+1114
+01:37:00,133 --> 01:37:04,767
+Continuar con la profundización de la suspensión hasta lograr el registro de "vacío",
+
+1115
+01:37:06,467 --> 01:37:10,700
+significa que nada debe aparecer como representación,
+
+1116
+01:37:12,133 --> 01:37:14,467
+ni como registro de sensaciones internas.
+
+1117
+01:37:16,033 --> 01:37:20,400
+No puede, ni debe, haber registro de esa situación mental.
+
+1118
+01:37:21,167 --> 01:37:27,100
+Y el regreso a la situación mental de suspensión o a la vigilia habitual,
+
+1119
+01:37:27,008 --> 01:37:31,010
+se produce por los impulsos que delatan la posición
+
+1120
+01:37:32,003 --> 01:37:33,670
+y las incomodidades del cuerpo.
+
+1121
+01:37:34,167 --> 01:37:35,700
+El señor vuelve.
+
+1122
+01:37:38,767 --> 01:37:40,772
+Nada se puede decir de ese “vacío”.
+
+1123
+01:37:44,533 --> 01:37:47,067
+Nada se puede decir de ese “vacío”.
+
+1124
+01:37:48,267 --> 01:37:51,269
+El rescate de los significados inspiradores,
+
+1125
+01:37:53,433 --> 01:37:55,567
+de los sentidos profundos
+
+1126
+01:37:57,167 --> 01:38:01,400
+que están más allá de los mecanismos y las configuraciones de conciencia,
+
+1127
+01:38:02,007 --> 01:38:10,274
+se hace desde mi yo cuando éste retoma su trabajo vigílico normal.
+
+1128
+01:38:12,001 --> 01:38:16,001
+Estamos hablando de “traducciones” de impulsos profundos,
+
+1129
+01:38:16,867 --> 01:38:20,200
+que llegan a mi intracuerpo durante el sueño profundo,
+
+1130
+01:38:20,006 --> 01:38:24,039
+o de impulsos que llegan a mi conciencia en un tipo de percepción diferente
+
+1131
+01:38:25,233 --> 01:38:28,600
+a las conocidas en el momento de “regreso” a la vigilia normal.
+
+1132
+01:38:29,967 --> 01:38:31,833
+No podemos hablar de ese mundo
+
+1133
+01:38:32,001 --> 01:38:35,868
+porque no tenemos registro durante la eliminación del yo,
+
+1134
+01:38:37,633 --> 01:38:42,200
+solamente contamos con las “reminiscencias” de ese mundo,
+
+1135
+01:38:43,033 --> 01:38:46,040
+como nos comentara Platón en sus mitos.
+
+1136
+01:38:48,008 --> 01:38:49,016
+Eso es todo.
+
