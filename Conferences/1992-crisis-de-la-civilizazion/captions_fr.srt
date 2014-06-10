@@ -1,0 +1,1300 @@
+1
+00:00:05,433 --> 00:00:08,436
+La crise de la civilisation et l'Humanisme
+
+2
+00:00:09,001 --> 00:00:10,009
+Académie des Sciences, Moscou.
+
+3
+00:00:11,533 --> 00:00:16,167
+18 juin 1992.
+
+4
+00:00:33,006 --> 00:00:36,773
+Je remercie le Club des Intentions Humanistes.
+
+5
+00:00:39,433 --> 00:00:44,000
+Je remercie les représentants des milieux culturels ici présents.
+
+6
+00:00:45,003 --> 00:00:48,012
+Je remercie également les éditeurs de mes livres.
+
+7
+00:00:51,567 --> 00:00:54,600
+Je remercie l’équipe des traducteurs
+
+8
+00:00:56,133 --> 00:01:03,137
+et les nombreux amis qui m’ont invité à disserter aujourd’hui.
+
+9
+00:01:05,533 --> 00:01:07,541
+Enfin, je remercie les média pour leur présence,
+
+10
+00:01:08,333 --> 00:01:12,341
+et je vous remercie aussi de votre présence à tous.
+
+11
+00:01:17,933 --> 00:01:26,300
+Vous saurez certainement excuser les difficultés liées à la traduction
+
+12
+00:01:26,006 --> 00:01:34,239
+et comprendrez que cet inconvénient, qui contraint à réduire le temps de l’exposé
+
+13
+00:01:35,033 --> 00:01:41,042
+nous obligera à condenser un certain nombre d’idées.
+
+14
+00:01:45,267 --> 00:01:52,233
+Notre thème d’aujourd’hui, "La crise de la civilisation et l’humanisme",
+
+15
+00:01:53,433 --> 00:02:03,200
+exige l’examen du concept de "civilisation" comme préalable à tout développement
+
+16
+00:02:04,733 --> 00:02:11,267
+On a beaucoup écrit et discuté autour du terme "civilisation".
+
+17
+00:02:12,004 --> 00:02:14,971
+Dès les débuts de la Philosophie de l’Histoire,
+
+18
+00:02:15,967 --> 00:02:22,969
+on considère déjà les différentes civilisations
+
+19
+00:02:23,006 --> 00:02:26,873
+comme des sortes d’entités historiques
+
+20
+00:02:27,667 --> 00:02:33,668
+ayant leur processus, leur évolution et leur destinée.
+
+21
+00:02:37,233 --> 00:02:43,000
+Cette entité, la civilisation, apparaît comme un espace,
+
+22
+00:02:43,233 --> 00:02:48,000
+une région de comportements humains
+
+23
+00:02:48,967 --> 00:02:58,971
+permettant d’identifier les peuples selon leur mode de production,
+
+24
+00:03:00,001 --> 00:03:11,068
+leurs rapports sociaux, leurs conceptions juridiques et leur échelle de valeurs.
+
+25
+00:03:12,733 --> 00:03:21,967
+En général, on n’identifie pas l’idée de "peuple" ou de "nation" avec celle de civilisation ;
+
+26
+00:03:22,167 --> 00:03:27,900
+on inclut de nombreux peuples et nations
+
+27
+00:03:27,009 --> 00:03:36,042
+bien au-delà de leurs frontières respectives, à l’intérieur de cet espace mentionné.
+
+28
+00:03:38,733 --> 00:03:42,000
+Traditionnellement, on a toujours associé les civilisations
+
+29
+00:03:42,000 --> 00:03:49,967
+à des “espaces culturels” situés à l’intérieur de limites géographiques
+
+30
+00:03:51,133 --> 00:03:56,139
+et on leur a attribué la capacité d’irradier et de recevoir des influences
+
+31
+00:03:56,967 --> 00:04:00,970
+provenant d’autres civilisations plus ou moins proches.
+
+32
+00:04:02,007 --> 00:04:10,640
+Lorsque l’on parle de civilisation égyptienne ou grecque,
+
+33
+00:04:11,333 --> 00:04:17,200
+on fait allusion aux espaces déterminés par certains comportements humains,
+
+34
+00:04:18,133 --> 00:04:30,267
+mais on ne considère pas qu’un artifice plus ou moins centralisateur
+
+35
+00:04:31,005 --> 00:04:39,538
+comme l’État, soit le facteur décisif dans l’articulation de ces espaces.
+
+36
+00:04:41,002 --> 00:04:46,006
+Que les Macédoniens ou les Spartes aient participé à la culture hellénique
+
+37
+00:04:47,167 --> 00:04:57,171
+sans faire partie d’une ligue de villes-États ou encore qu’ils aient lutté entre eux,
+
+38
+00:04:57,009 --> 00:05:04,976
+montre que l’État n’est pas un facteur essentiel dans la définition de la civilisation.
+
+39
+00:05:06,008 --> 00:05:11,241
+En tout cas, l’enracinement dans un certain lieu a permis de parler
+
+40
+00:05:12,003 --> 00:05:18,004
+de civilisation "mésopotamienne", de civilisation "du Nil",
+
+41
+00:05:18,007 --> 00:05:22,640
+de civilisation "des îles", et ainsi de suite ;
+
+42
+00:05:24,967 --> 00:05:31,800
+et en conséquence ce type de classification amène implicitement une conception
+
+43
+00:05:31,008 --> 00:05:39,014
+de la civilisation fondée sur des raisons géographiques,
+
+44
+00:05:40,006 --> 00:05:44,011
+tout comme en parlant des civilisations
+
+45
+00:05:45,001 --> 00:05:53,268
+"du vin, du lait, et du miel" ou de celles du "maïs",
+
+46
+00:05:53,367 --> 00:05:58,370
+on fait allusion aux ressources alimentaires ;
+
+47
+00:05:58,667 --> 00:06:03,833
+et de même, quand on mentionne la civilisation "néolithique",
+
+48
+00:06:03,833 --> 00:06:11,840
+on fait référence à la production d’instruments et de techniques définissant les différents stades de l’évolution culturelle.
+
+49
+00:06:13,933 --> 00:06:18,767
+Toutefois, le travail réalisé à partir de celui de Vico
+
+50
+00:06:19,003 --> 00:06:26,005
+est plus important que ce simple effort de classification ;
+
+51
+00:06:26,733 --> 00:06:31,967
+il tente de comprendre quelles sont les étapes temporelles
+
+52
+00:06:31,967 --> 00:06:39,200
+ainsi que le devenir d'une civilisation et quel est son destin.
+
+53
+00:06:39,009 --> 00:06:46,142
+Ce "corsi e ricorsi" des faits humains
+
+54
+00:06:47,567 --> 00:06:53,033
+fut appréhendé d'abord par ce génial napolitain
+
+55
+00:06:53,833 --> 00:06:59,867
+qui s’appuya sur une idée générale concernant la forme du développement historique
+
+56
+00:07:00,067 --> 00:07:05,076
+ainsi que sur un ensemble d’axiomes et une méthode philologique.
+
+57
+00:07:06,567 --> 00:07:09,933
+Ceci resta valide jusqu’à l’historiologie de Toynbee
+
+58
+00:07:10,233 --> 00:07:13,800
+qui, elle, se fonda sur la conception de “stimuli-réponse”
+
+59
+00:07:14,033 --> 00:07:19,400
+déjà anticipée par Pavlov dans ses études physiologiques.
+
+60
+00:07:20,267 --> 00:07:24,333
+Ainsi donc, beaucoup d’encre a coulé depuis lors, et on a essayé de faire science
+
+61
+00:07:24,333 --> 00:07:28,500
+avec des idées plus ou moins confuses.
+
+62
+00:07:30,333 --> 00:07:35,342
+Bien sûr, certains efforts furent couronnés de plus de succès que d’autres.
+
+63
+00:07:36,007 --> 00:07:42,040
+Ainsi, Comte énonça une loi selon laquelle chaque civilisation,
+
+64
+00:07:43,002 --> 00:07:46,435
+après une étape initiale héroïque et théologique,
+
+65
+00:07:46,633 --> 00:07:49,700
+passe ensuite par un stade métaphysique
+
+66
+00:07:49,933 --> 00:07:53,933
+pour entrer finalement dans un moment positif
+
+67
+00:07:53,933 --> 00:07:58,900
+de rationalité, d’abondance et de justice.
+
+68
+00:07:59,467 --> 00:08:03,233
+Hegel nous dit que les civilisations sont les manifestations
+
+69
+00:08:03,867 --> 00:08:09,876
+des étapes dialectiques de l’Esprit Absolu ;
+
+70
+00:08:11,433 --> 00:08:19,167
+Spengler les présenta comme étant protéiformes biographiques,
+
+71
+00:08:19,167 --> 00:08:22,500
+comme des entités qui suivaient biologiquement
+
+72
+00:08:22,733 --> 00:08:29,700
+les étapes de la naissance, de la jeunesse, de la maturité et de la mort.
+
+73
+00:08:31,001 --> 00:08:32,568
+D'importants travaux ont été réalisés
+
+74
+00:08:32,667 --> 00:08:37,675
+pour comprendre le fonctionnement et le destin des civilisations ;
+
+75
+00:08:38,967 --> 00:08:43,933
+mais parmi les chercheurs et les philosophes qui menèrent ces travaux,
+
+76
+00:08:43,933 --> 00:08:47,267
+beaucoup n'ont pas examiné en profondeur ce point fondamental :
+
+77
+00:08:47,567 --> 00:08:55,575
+reconnaître que leurs questions et leurs réponses
+
+78
+00:08:56,006 --> 00:09:00,139
+naissaient depuis le paysage culturel,
+
+79
+00:09:00,933 --> 00:09:05,934
+depuis le moment historique dans lequel ils vivaient.
+
+80
+00:09:06,267 --> 00:09:14,300
+Si nous voulions aujourd’hui trouver une nouvelle réponse concernant la civilisation,
+
+81
+00:09:14,767 --> 00:09:20,333
+nous ne pourrions plus éluder la difficulté (ou la facilité)
+
+82
+00:09:20,567 --> 00:09:25,570
+du paysage culturel dans lequel nous nous sommes formés
+
+83
+00:09:26,001 --> 00:09:30,834
+et du moment historique dans lequel nous vivons.
+
+84
+00:09:31,467 --> 00:09:34,476
+Aujourd’hui, nous devrions nous interroger
+
+85
+00:09:35,367 --> 00:09:38,369
+sur les conditions de notre propre vie,
+
+86
+00:09:39,267 --> 00:09:44,533
+si nous voulons comprendre ce devenir,
+
+87
+00:09:45,367 --> 00:09:49,733
+et ainsi nous humaniserions le processus historique,
+
+88
+00:09:49,967 --> 00:09:53,033
+sur lequel nous serions en train de réfléchir.
+
+89
+00:09:54,433 --> 00:09:57,100
+Nous le ferions non pas pour interpréter de façon extérieure
+
+90
+00:09:57,001 --> 00:10:01,004
+les faits produits par l’être humain,
+
+91
+00:10:01,004 --> 00:10:04,837
+comme cela se fait dans les livres d’histoire,
+
+92
+00:10:05,233 --> 00:10:10,300
+mais pour comprendre, à partir de la structure historique
+
+93
+00:10:10,003 --> 00:10:13,136
+qui dote de sens la vie humaine,
+
+94
+00:10:13,433 --> 00:10:17,441
+la situation dans laquelle nous vivons.
+
+95
+00:10:18,533 --> 00:10:23,967
+Cette optique nous amènerait à nous rendre compte des difficultés
+
+96
+00:10:23,967 --> 00:10:30,933
+à formuler certaines questions et à donner certaines réponses,
+
+97
+00:10:31,133 --> 00:10:35,967
+le moment dans lequel nous vivons
+
+98
+00:10:36,002 --> 00:10:45,369
+nous empêchant de dépasser la limite de nos croyances et de nos présupposés culturels.
+
+99
+00:10:45,933 --> 00:10:50,942
+Pourtant c'est précisément la rupture de nos croyances,
+
+100
+00:10:52,067 --> 00:10:58,075
+l’apparition de faits que nous considérions impossibles,
+
+101
+00:10:58,867 --> 00:11:06,200
+qui nous permettra d’avancer vers un nouveau moment de la civilisation.
+
+102
+00:11:06,433 --> 00:11:07,440
+Comme vous le comprenez tous,
+
+103
+00:11:09,000 --> 00:11:12,009
+nous sommes en train de parler de la situation cruciale de crise
+
+104
+00:11:12,009 --> 00:11:17,776
+qui nous submerge et, par conséquent,
+
+105
+00:11:18,009 --> 00:11:23,642
+du moment de rupture avec les croyances et présupposés culturels
+
+106
+00:11:24,533 --> 00:11:27,537
+au sein desquels nous avons été formés.
+
+107
+00:11:29,933 --> 00:11:33,938
+Pour caractériser la crise à partir de ce point de vue,
+
+108
+00:11:34,433 --> 00:11:43,067
+nous pouvons prêter attention à quatre phénomènes qui nous touchent directement, à savoir :
+
+109
+00:11:43,067 --> 00:11:53,533
+1. Le monde connaît un changement rapide généré par la révolution technologique
+
+110
+00:11:53,767 --> 00:11:58,000
+qui bouscule les structures établies
+
+111
+00:11:58,000 --> 00:12:04,007
+et les habitudes de vie des sociétés et des individus.
+
+112
+00:12:05,067 --> 00:12:13,069
+2. Ce déphasage entre l’accélération technologique
+
+113
+00:12:13,005 --> 00:12:16,012
+et la lenteur de l’adaptation sociale au changement
+
+114
+00:12:17,002 --> 00:12:23,469
+génère des crises progressives dans tous les domaines ;
+
+115
+00:12:23,867 --> 00:12:27,867
+et il n’y a aucune raison de supposer que cela va s’arrêter ;
+
+116
+00:12:28,001 --> 00:12:33,002
+à l’inverse, il tendra à s’amplifier.
+
+117
+00:12:33,533 --> 00:12:38,538
+3. Le caractère inattendu des événements
+
+118
+00:12:39,007 --> 00:12:45,140
+empêche de prévoir la direction que vont prendre ces événements,
+
+119
+00:12:46,001 --> 00:12:52,008
+les personnes de notre entourage et, en définitive, notre propre vie.
+
+120
+00:12:53,133 --> 00:12:57,567
+En réalité, ce n’est pas le changement en lui-même qui nous préoccupe
+
+121
+00:12:57,567 --> 00:13:03,200
+mais le caractère imprévisible d'un tel changement.
+
+122
+00:13:04,267 --> 00:13:13,271
+4. Nombre de choses que nous pensions et croyions ne nous servent plus ;
+
+123
+00:13:15,033 --> 00:13:21,967
+de plus, aucune solution ne semble venir d’une société,
+
+124
+00:13:22,233 --> 00:13:29,867
+d’institutions ou d’individus qui souffrent du même mal.
+
+125
+00:13:31,267 --> 00:13:35,233
+D’une part, nous avons besoin de références
+
+126
+00:13:35,005 --> 00:13:44,138
+mais, d’autre part, les références traditionnelles sont asphyxiantes et obsolètes.
+
+127
+00:13:47,833 --> 00:13:58,267
+À mon avis, c’est ici, dans cette zone de la planète plus que dans n’importe quelle autre,
+
+128
+00:13:58,007 --> 00:14:03,274
+que se produit la plus formidable accélération
+
+129
+00:14:04,433 --> 00:14:08,300
+des conditions de changement historique.
+
+130
+00:14:09,267 --> 00:14:13,270
+C’est une accélération confuse et douloureuse
+
+131
+00:14:13,009 --> 00:14:19,476
+dans laquelle un nouveau moment de la civilisation est en gestation.
+
+132
+00:14:21,009 --> 00:14:26,942
+Ici, personne ne sait aujourd’hui ce qui arrivera demain,
+
+133
+00:14:29,000 --> 00:14:37,004
+alors que dans d’autres parties du monde on suppose naïvement
+
+134
+00:14:38,006 --> 00:14:44,773
+que la civilisation avance en direction prévisible
+
+135
+00:14:46,000 --> 00:14:52,533
+et ce, à l’intérieur d’un modèle économique et social déjà établi.
+
+136
+00:14:54,533 --> 00:14:57,867
+Évidemment, cette manière de voir
+
+137
+00:14:58,433 --> 00:15:02,200
+relève davantage d’un état d’âme
+
+138
+00:15:02,005 --> 00:15:09,672
+ou de manifestation de désirs que d’une position justifiée par les faits.
+
+139
+00:15:11,133 --> 00:15:15,141
+En effet, pour peu que l’on examine ce qui se passe actuellement,
+
+140
+00:15:15,933 --> 00:15:20,600
+on arrive à la conclusion que le monde,
+
+141
+00:15:20,006 --> 00:15:32,073
+considéré globalement et non divisé de façon schizophrénique entre Est et Ouest,
+
+142
+00:15:33,167 --> 00:15:39,333
+s’achemine vers une instabilité croissante.
+
+143
+00:15:42,003 --> 00:15:48,070
+Avoir le regard rivé exclusivement sur un type d’État,
+
+144
+00:15:48,008 --> 00:15:53,841
+un type d’administration ou un type d’économie
+
+145
+00:15:54,967 --> 00:15:58,968
+pour interpréter le devenir des événements
+
+146
+00:15:59,003 --> 00:16:02,336
+fait preuve d'une vision intellectuelle étriquée
+
+147
+00:16:02,633 --> 00:16:10,500
+et révèle la base des croyances que nous avons incorporées à travers notre formation culturelle.
+
+148
+00:16:11,003 --> 00:16:17,636
+D’un côté, nous remarquons que le paysage social et historique dans lequel nous vivons
+
+149
+00:16:17,933 --> 00:16:26,940
+a violemment changé par rapport à celui dans lequel nous vivions il y a encore quelques années ;
+
+150
+00:16:28,000 --> 00:16:36,033
+d’un autre côté, les outils d’analyse que nous persistons d'utiliser
+
+151
+00:16:36,033 --> 00:16:43,167
+pour interpréter ces situations nouvelles, appartiennent au vieux paysage.
+
+152
+00:16:44,633 --> 00:16:47,267
+De plus, les difficultés s'accentuent
+
+153
+00:16:48,033 --> 00:16:53,967
+car nous disposons d'une sensibilité qui s'est formée à une autre époque,
+
+154
+00:16:54,002 --> 00:17:00,002
+et celle-ci ne change pas au rythme des événements.
+
+155
+00:17:00,967 --> 00:17:08,100
+Et cette raison explique certainement pourquoi,
+
+156
+00:17:08,467 --> 00:17:13,600
+partout dans le monde, se creuse un fossé
+
+157
+00:17:14,067 --> 00:17:22,600
+entre ceux qui détiennent le pouvoir économique, politique, artistique, etc.
+
+158
+00:17:24,133 --> 00:17:31,500
+et les nouvelles générations qui appréhendent autrement
+
+159
+00:17:31,767 --> 00:17:40,000
+les fonctions que doivent accomplir les institutions et les leaders.
+
+160
+00:17:41,004 --> 00:17:44,837
+Je crois que le moment est venu de dire une chose
+
+161
+00:17:45,433 --> 00:17:51,000
+qui paraîtra scandaleuse à l’ancienne sensibilité :
+
+162
+00:17:51,002 --> 00:18:02,009
+pour les nouvelles générations, le modèle économique et social
+
+163
+00:18:03,333 --> 00:18:11,867
+qui alimente les discussions quotidiennes des faiseurs d’opinions n’est pas une question fondamentale ;
+
+164
+00:18:12,003 --> 00:18:18,936
+Elles espèrent plutôt que les institutions et les leaders
+
+165
+00:18:19,567 --> 00:18:27,569
+ne seront pas une charge supplémentaire s’ajoutant à ce monde déjà compliqué.
+
+166
+00:18:28,733 --> 00:18:31,737
+D’une part, elles espèrent une nouvelle alternative,
+
+167
+00:18:32,133 --> 00:18:36,000
+car les modèles existants leur semblent épuisés ;
+
+168
+00:18:36,233 --> 00:18:43,233
+d’autre part, elles ne sont pas prêtes à suivre des propositions ou des leaderships
+
+169
+00:18:43,633 --> 00:18:46,638
+qui ne coïncident pas à leur sensibilité.
+
+170
+00:18:48,009 --> 00:18:55,876
+Ceci est souvent considéré comme un manque de responsabilité de la part des plus jeunes.
+
+171
+00:18:57,000 --> 00:19:02,000
+Pour ma part, je ne parle pas ici de responsabilité,
+
+172
+00:19:02,000 --> 00:19:12,467
+mais d’une certaine sensibilité dont on doit tenir compte très sérieusement.
+
+173
+00:19:15,267 --> 00:19:21,268
+Et l'on ne résoudra pas ce problème avec des sondages d’opinion
+
+174
+00:19:21,367 --> 00:19:29,372
+ou des enquêtes destinés à savoir de quelle nouvelle manière on peut manipuler la société.
+
+175
+00:19:30,233 --> 00:19:36,236
+Il s’agit d'un problème d'appréciation globale de la signification de l’être humain concret,
+
+176
+00:19:36,767 --> 00:19:43,774
+ce dernier étant consulté en théorie mais toujours trahi dans la pratique.
+
+177
+00:19:46,367 --> 00:19:52,333
+Concernant les affirmations précédentes, on objectera
+
+178
+00:19:52,333 --> 00:19:59,336
+que dans une crise comme celle-ci, les peuples veulent des solutions concrètes.
+
+179
+00:20:00,667 --> 00:20:08,675
+Mais j’affirme que trouver une solution concrète est une chose
+
+180
+00:20:09,733 --> 00:20:16,767
+et que c’en est une autre, très différente, de promettre des solutions concrètes.
+
+181
+00:20:17,933 --> 00:20:23,867
+Ce qui est concret, c’est qu’on ne croit plus aux promesses ;
+
+182
+00:20:24,467 --> 00:20:28,474
+et cela est beaucoup plus important en tant que réalité psychosociale
+
+183
+00:20:29,667 --> 00:20:33,333
+que de présenter des solutions
+
+184
+00:20:33,333 --> 00:20:37,767
+dont les gens ont l’intuition qu’elles ne seront pas réalisées dans la pratique.
+
+185
+00:20:37,767 --> 00:20:43,100
+La crise de crédibilité est d’autant plus dangereuse
+
+186
+00:20:44,003 --> 00:20:49,336
+qu’elle nous jette sans défense dans les bras de la démagogie
+
+187
+00:20:49,867 --> 00:20:55,600
+et de n'importe quel leader charismatique
+
+188
+00:20:55,006 --> 00:20:58,673
+qui exalte des sentiments profonds.
+
+189
+00:20:59,267 --> 00:21:03,269
+Mais ceci, même si je le répète souvent,
+
+190
+00:21:03,007 --> 00:21:09,640
+est difficile à admettre car l’obstacle
+
+191
+00:21:10,008 --> 00:21:14,041
+dressé par notre paysage de formation
+
+192
+00:21:15,167 --> 00:21:19,700
+nous fait encore confondre les faits eux-mêmes
+
+193
+00:21:19,967 --> 00:21:23,976
+avec les mots qui mentionnent les faits.
+
+194
+00:21:25,833 --> 00:21:29,838
+Aujourd'hui, il saute aux yeux
+
+195
+00:21:30,667 --> 00:21:33,669
+qu’il est nécessaire de se demander, une fois pour toutes,
+
+196
+00:21:34,733 --> 00:21:37,867
+si le regard que nous avons exercé jusqu’à présent
+
+197
+00:21:37,867 --> 00:21:39,875
+pour comprendre ces problèmes est toujours adéquat.
+
+198
+00:21:41,233 --> 00:21:44,667
+Ce que je dis n’est pas si étrange.
+
+199
+00:21:44,933 --> 00:21:48,941
+En effet, depuis quelques années, les scientifiques de différentes disciplines
+
+200
+00:21:50,033 --> 00:21:55,300
+ont cessé de croire qu’ils observaient la réalité même ;
+
+201
+00:21:55,633 --> 00:22:00,000
+ils se sont souciés de comprendre
+
+202
+00:22:00,002 --> 00:22:04,005
+comment leurs propres observations interféraient avec les phénomènes étudiés.
+
+203
+00:22:05,001 --> 00:22:08,002
+Exprimé avec nos propres mots,
+
+204
+00:22:08,002 --> 00:22:15,535
+ceci signifie que l’observateur introduit des éléments de son propre paysage
+
+205
+00:22:15,733 --> 00:22:19,700
+qui n’existent pas dans le phénomène étudié ;
+
+206
+00:22:20,067 --> 00:22:25,333
+voire même que le regard dirigé vers un champ d’étude
+
+207
+00:22:25,333 --> 00:22:29,700
+s'oriente déjà vers une région déterminée de celui-ci.
+
+208
+00:22:29,007 --> 00:22:36,174
+Il pourrait donc arriver que nous prêtions attention à des questions sans importance.
+
+209
+00:22:37,733 --> 00:22:40,734
+Mais cela devient beaucoup plus grave
+
+210
+00:22:40,833 --> 00:22:46,600
+à l'heure de justifier des positions politiques en affirmant
+
+211
+00:22:46,006 --> 00:22:51,139
+que tous les projets tiennent compte de l’être humain.
+
+212
+00:22:52,005 --> 00:22:55,872
+Ceci s'avère faux,
+
+213
+00:22:56,007 --> 00:23:02,740
+car ce n'est pas de lui dont on tient compte mais d'autres facteurs
+
+214
+00:23:04,033 --> 00:23:08,500
+qui relèguent les personnes en position accessoire.
+
+215
+00:23:09,167 --> 00:23:13,169
+En aucune manière, on ne perçoit que seule
+
+216
+00:23:13,367 --> 00:23:16,733
+la compréhension de la structure de la vie humaine
+
+217
+00:23:17,001 --> 00:23:22,834
+peut donner une explication complète des événements et du destin de la civilisation.
+
+218
+00:23:22,933 --> 00:23:26,500
+Et cela nous amène à comprendre que si le sujet de la vie humaine
+
+219
+00:23:26,007 --> 00:23:31,009
+est évoqué sans cesse, il n'est pas réellement pris en compte,
+
+220
+00:23:31,009 --> 00:23:37,142
+car l'on part du présupposé que la vie des individus n'est pas agent producteur d’événements
+
+221
+00:23:38,233 --> 00:23:47,400
+mais objet passif des forces macro-économiques, ethniques, religieuses ou géographiques ;
+
+222
+00:23:47,733 --> 00:23:53,000
+car l'on part du présupposé qu’il faut exiger des peuples sur le plan objectif,
+
+223
+00:23:53,000 --> 00:24:00,007
+travail et discipline sociale, et sur le plan subjectif, crédulité et obéissance .
+
+224
+00:24:01,967 --> 00:24:02,974
+Après ces considérations
+
+225
+00:24:03,667 --> 00:24:06,675
+sur la façon de considérer les phénomènes de civilisation,
+
+226
+00:24:08,167 --> 00:24:11,700
+en tenant en compte de notre paysage de formation,
+
+227
+00:24:11,967 --> 00:24:14,200
+de nos croyances et de nos systèmes de valeurs,
+
+228
+00:24:14,002 --> 00:24:19,006
+revenons-en au thème principal.
+
+229
+00:24:21,033 --> 00:24:26,167
+La crise actuelle ne se produit pas dans des civilisations cloisonnées
+
+230
+00:24:26,005 --> 00:24:29,872
+comme cela a pu arriver à d'autres époques où ces entités
+
+231
+00:24:30,367 --> 00:24:36,933
+pouvaient interagir tout en ignorant ou en régulant certains facteurs.
+
+232
+00:24:37,633 --> 00:24:41,638
+Dans le processus de mondialisation croissante que nous vivons,
+
+233
+00:24:42,005 --> 00:24:51,938
+nous devons interpréter les faits comme agissant selon une dynamique globale et structurelle.
+
+234
+00:24:53,367 --> 00:25:01,700
+Cependant, nous voyons que tout se déstructure :
+
+235
+00:25:03,233 --> 00:25:05,240
+l’État national est affaibli
+
+236
+00:25:05,933 --> 00:25:10,067
+par les coups que lui assènent, d’en bas, les revendications locales
+
+237
+00:25:10,005 --> 00:25:14,014
+et, d’en haut, la régionalisation et la mondialisation ;
+
+238
+00:25:15,967 --> 00:25:24,000
+les personnes, les codes culturels, les langues et les biens
+
+239
+00:25:24,000 --> 00:25:28,007
+se mélangent en une fantastique tour de Babel ;
+
+240
+00:25:29,267 --> 00:25:34,033
+les entreprises centralisées connaissent une crise liée à la flexibilité
+
+241
+00:25:34,233 --> 00:25:37,800
+qu'elles ne sont pas capables de mettre en place ;
+
+242
+00:25:37,833 --> 00:25:41,800
+le fossé des générations s’élargit
+
+243
+00:25:42,067 --> 00:25:48,833
+comme si coexistaient, en un même moment et en un même lieu, des sous-cultures
+
+244
+00:25:48,833 --> 00:25:51,767
+séparées par leur passé et dans leurs projets d’avenir ;
+
+245
+00:25:52,267 --> 00:25:56,274
+les membres d’une famille, les collègues de travail,
+
+246
+00:25:57,003 --> 00:26:01,670
+les organisations politiques, syndicales et sociales
+
+247
+00:26:01,967 --> 00:26:06,033
+subissent l’action de forces centrifuges désintégratrices ;
+
+248
+00:26:06,033 --> 00:26:10,267
+les idéologies, prises dans ce tourbillon,
+
+249
+00:26:10,267 --> 00:26:16,267
+ne peuvent apporter de réponses ni inspirer une action cohérente aux groupes humains ;
+
+250
+00:26:16,867 --> 00:26:22,873
+l’ancienne solidarité disparaît et le tissu social se dissout toujours plus ;
+
+251
+00:26:24,000 --> 00:26:27,133
+pour finir, l’individu d’aujourd’hui,
+
+252
+00:26:27,004 --> 00:26:31,971
+en dépit du nombre conséquent de gens qui l’entourent chaque jour
+
+253
+00:26:32,767 --> 00:26:36,033
+et de l’importance (comme jamais) des moyens de communication,
+
+254
+00:26:36,033 --> 00:26:41,037
+se trouve isolé et en manque de communication.
+
+255
+00:26:43,933 --> 00:26:52,367
+Tout ce qui vient d'être mentionné montre que ces phénomènes paradoxaux et déstructurés
+
+256
+00:26:52,567 --> 00:26:59,572
+relèvent encore du même processus global et structurel.
+
+257
+00:27:00,006 --> 00:27:04,439
+Et si les anciennes idéologies ne peuvent apporter de réponses à ces phénomènes,
+
+258
+00:27:05,033 --> 00:27:10,038
+c’est qu’elles font partie du monde qui s’en va.
+
+259
+00:27:11,008 --> 00:27:17,009
+Cependant, beaucoup voient en cela la fin des idées
+
+260
+00:27:17,009 --> 00:27:19,015
+et la fin de l’Histoire,
+
+261
+00:27:20,005 --> 00:27:24,072
+la fin des conflits et du progrès humain.
+
+262
+00:27:25,006 --> 00:27:28,173
+Mais nous, tout en qualifiant tout cela de "crise",
+
+263
+00:27:28,767 --> 00:27:34,771
+nous sommes bien loin de considérer cette crise comme une décadence finale.
+
+264
+00:27:35,567 --> 00:27:40,574
+En fait, nous voyons cette dissolution des formes anciennes
+
+265
+00:27:41,467 --> 00:27:48,472
+comme la déchirure d’un vêtement devenu trop étriqué pour l’être humain.
+
+266
+00:27:50,001 --> 00:27:52,008
+Ces événements, qui s’accélèrent
+
+267
+00:27:52,008 --> 00:27:55,014
+de manière très inégale selon les endroits,
+
+268
+00:27:56,767 --> 00:28:00,767
+ne tarderont pas à couvrir toute la planète,
+
+269
+00:28:01,002 --> 00:28:07,004
+même là où l’on arbore encore un triomphalisme injustifié.
+
+270
+00:28:07,733 --> 00:28:14,267
+Nous verrons apparaître des phénomènes que le langage quotidien qualifiera d’"incroyables".
+
+271
+00:28:15,009 --> 00:28:19,013
+Nous sommes en train d’avancer vers une civilisation planétaire qui se dotera d’une nouvelle organisation
+
+272
+00:28:20,003 --> 00:28:24,370
+et d’une nouvelle échelle de valeurs. Mais pour cela, on ne peut éviter
+
+273
+00:28:25,000 --> 00:28:28,467
+de partir du thème le plus important de notre temps :
+
+274
+00:28:28,967 --> 00:28:37,633
+savoir si nous voulons vivre et dans quelles conditions.
+
+275
+00:28:39,033 --> 00:28:44,467
+Plusieurs minutes manquantes à l'enregistrement (parties endommagées)
+
+276
+00:28:45,567 --> 00:28:49,633
+Je dois également souligner que l’Humanisme donne son explication du monde,
+
+277
+00:28:49,867 --> 00:28:54,500
+des valeurs, de la société, de la politique, de l’Art et de l’Histoire
+
+278
+00:28:55,033 --> 00:29:00,267
+fondamentalement à partir de sa conception de l’être humain.
+
+279
+00:29:01,006 --> 00:29:02,673
+Pour l’Humanisme contemporain,
+
+280
+00:29:03,467 --> 00:29:11,133
+on ne peut partir de théories sur la matière, sur l’esprit ou sur Dieu…
+
+281
+00:29:12,002 --> 00:29:15,935
+Il est nécessaire de partir de la structure de la vie humaine,
+
+282
+00:29:16,133 --> 00:29:22,139
+de sa liberté et de son intention. Et en toute logique, aucune approche déterministe ou naturaliste
+
+283
+00:29:23,133 --> 00:29:33,367
+ne peut se transformer en humanisme puisque leur postulat de départ pose l’être humain comme accessoire.
+
+284
+00:29:33,633 --> 00:29:36,667
+L’humanisme d’aujourd’hui définit l’être humain comme
+
+285
+00:29:36,667 --> 00:29:45,733
+“ … un être historique dont le mode d’action sociale transforme sa propre nature. ”
+
+286
+00:29:48,033 --> 00:29:51,040
+Nous trouvons là les éléments qui, dûment développés,
+
+287
+00:29:51,733 --> 00:29:56,740
+peuvent servir de fondement à une théorie et à une pratique répondant à l’urgence contemporaine.
+
+288
+00:29:57,733 --> 00:30:00,300
+Développer des considérations sur cette définition
+
+289
+00:30:00,008 --> 00:30:05,641
+nous mènerait trop loin et nous manquons de temps pour le faire.
+
+290
+00:30:08,467 --> 00:30:11,133
+Mais il n'échappe à personne que notre rapide description
+
+291
+00:30:11,333 --> 00:30:14,338
+de la civilisation et de la crise actuelle
+
+292
+00:30:15,767 --> 00:30:21,933
+se fonde sur la structure de l’existence humaine, et qu’une telle description représente précisément
+
+293
+00:30:21,933 --> 00:30:27,300
+une application de notre conception de l’Humanisme contemporain.
+
+294
+00:30:28,067 --> 00:30:33,300
+Les termes "crise de civilisation" et "humanisme"
+
+295
+00:30:34,133 --> 00:30:37,100
+sont liés, si notre vision des choses
+
+296
+00:30:37,005 --> 00:30:41,938
+peut contribuer à surmonter certaines difficultés actuelles.
+
+297
+00:30:43,867 --> 00:30:47,533
+Bien que nous ne développions pas plus ses caractéristiques,
+
+298
+00:30:47,767 --> 00:30:56,033
+notre approche de l’Humanisme est claire : un ensemble d’idées,
+
+299
+00:30:57,000 --> 00:31:07,267
+une action pratique, un courant d’opinion et,  éventuellement, une organisation
+
+300
+00:31:07,567 --> 00:31:14,570
+développant des objectifs de transformation sociale et personnelle ;
+
+301
+00:31:15,003 --> 00:31:25,336
+une organisation accueillant en son sein des particularités politiques et culturelles concrètes qui,
+
+302
+00:31:26,233 --> 00:31:32,241
+sans perdre leur identité propre en tant que forces de changement différentes,
+
+303
+00:31:33,003 --> 00:31:38,006
+convergent dans leur intention finale.
+
+304
+00:31:40,433 --> 00:31:45,700
+Il rendrait un bien mauvais service à cette période de changement,
+
+305
+00:31:46,000 --> 00:31:53,008
+celui qui se sentirait la vocation de conquérir l’hégémonie
+
+306
+00:31:54,133 --> 00:31:57,367
+et l’universalisation d’une certaine tendance,
+
+307
+00:31:57,667 --> 00:32:02,667
+alors que la décentralisation progresse
+
+308
+00:32:02,009 --> 00:32:08,542
+et que les particularismes réels demandent à être reconnus.
+
+309
+00:32:11,008 --> 00:32:16,775
+J’aimerais terminer par une considération très personnelle.
+
+310
+00:32:18,933 --> 00:32:25,939
+Ces jours-ci, j’ai eu l’occasion de participer à des rencontres et à des séminaires
+
+311
+00:32:26,009 --> 00:32:33,276
+avec des académiciens et des personnalités de la Culture et de la Science.
+
+312
+00:32:35,001 --> 00:32:40,534
+Plus d’une fois, il m’a semblé remarquer un climat de pessimisme
+
+313
+00:32:41,001 --> 00:32:46,008
+lorsque nous échangions des idées sur l’avenir que nous aurions à vivre.
+
+314
+00:32:48,967 --> 00:32:55,900
+Dans ces occasions, j’ai senti qu’il n’était pas opportun que j’exprime naïvement mon enthousiasme,
+
+315
+00:32:56,567 --> 00:33:01,200
+ni que je déclare ma foi dans un futur heureux.
+
+316
+00:33:01,005 --> 00:33:05,172
+Cependant, dans la période actuelle, je crois
+
+317
+00:33:06,433 --> 00:33:12,433
+que nous devons faire l’effort de dépasser ce découragement
+
+318
+00:33:13,001 --> 00:33:20,034
+en nous rappelant d'autres moments de crises graves que vécut et surmonta l’espèce humaine.
+
+319
+00:33:21,000 --> 00:33:24,367
+Et j’aimerais rappeler ces quelques mots,
+
+320
+00:33:24,667 --> 00:33:26,670
+que je partage pleinement
+
+321
+00:33:27,233 --> 00:33:32,700
+et qui vibrent depuis les origines de la tragédie grecque :
+
+322
+00:33:33,567 --> 00:33:38,700
+“ … de tous les chemins, apparemment fermés,
+
+323
+00:33:39,067 --> 00:33:43,075
+l’être humain a toujours trouvé l’issue. ”
+
+324
+00:33:44,001 --> 00:33:49,868
+C'est tout. Merci beaucoup.
+
+325
+00:33:54,133 --> 00:33:59,700
+Une Production du Centre d'Etudes. Punta de Vacas - 2008
+
